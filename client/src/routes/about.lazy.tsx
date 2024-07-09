@@ -25,6 +25,12 @@ function Index() {
 
         if (!local) {
             navigate({
+                to: "/login"
+            });
+        }
+
+        if(local) {
+            navigate({
                 to: "/"
             });
         }
