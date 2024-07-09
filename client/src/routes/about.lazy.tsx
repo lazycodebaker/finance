@@ -28,12 +28,6 @@ function Index() {
                 to: "/login"
             });
         }
-
-        if(local) {
-            navigate({
-                to: "/"
-            });
-        }
     }, [data, navigate]);
 
     const login = async () => {
