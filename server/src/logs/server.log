@@ -1,0 +1,1526 @@
+2024-07-07T19:18:48.187Z -   <-- GET /
+2024-07-07T19:18:48.188Z -   --> GET / [32m200[0m 1ms
+2024-07-07T19:18:48.194Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-07T19:18:48.194Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-07T19:18:48.195Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-07T19:18:48.196Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-07T19:18:48.744Z -   <-- GET /api/test
+2024-07-07T19:18:48.745Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-07T19:18:59.251Z -   <-- GET /api/test
+2024-07-07T19:18:59.251Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-07T19:19:11.445Z -   <-- GET /api/test
+2024-07-07T19:19:11.446Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-07T19:19:19.045Z -   <-- GET /api/auth/login
+2024-07-07T19:19:19.050Z -   --> GET /api/auth/login [36m302[0m 5ms
+2024-07-07T19:19:20.010Z -   <-- GET /api/auth/callback
+2024-07-07T19:19:20.013Z -   --> GET /api/auth/callback [31m500[0m 3ms
+2024-07-07T19:19:47.277Z -   <-- GET /api/auth/callback
+2024-07-07T19:19:47.278Z -   --> GET /api/auth/callback [31m500[0m 1ms
+2024-07-07T19:19:50.907Z -   <-- GET /api/test
+2024-07-07T19:19:50.908Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-07T19:20:42.598Z -   <-- GET /api/test
+2024-07-07T19:20:42.598Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-07T19:23:35.868Z -   <-- GET /api/download/log
+2024-07-07T19:23:35.871Z -   --> GET /api/download/log [33m404[0m 2ms
+2024-07-07T19:23:47.757Z -   <-- GET /api/download/log
+2024-07-07T19:23:47.759Z -   --> GET /api/download/log [33m404[0m 1ms
+2024-07-07T19:23:49.873Z -   <-- GET /api/download/log
+2024-07-07T19:23:49.876Z -   --> GET /api/download/log [33m404[0m 1ms
+2024-07-07T19:24:11.604Z -   <-- GET /api/download/log
+2024-07-07T19:24:11.606Z -   --> GET /api/download/log [32m200[0m 1ms
+2024-07-07T19:25:19.220Z -   <-- GET /api/auth/login
+2024-07-07T19:25:19.222Z -   --> GET /api/auth/login [36m302[0m 1ms
+2024-07-07T19:25:20.129Z -   <-- GET /api/auth/callback
+2024-07-07T19:25:20.132Z -   --> GET /api/auth/callback [31m500[0m 2ms
+2024-07-07T19:25:26.883Z -   <-- GET /api/auth/callback
+2024-07-07T19:25:26.889Z -   --> GET /api/auth/callback [31m500[0m 6ms
+2024-07-07T19:25:28.044Z -   <-- GET /api/auth/callback
+2024-07-07T19:25:28.046Z -   --> GET /api/auth/callback [31m500[0m 1ms
+2024-07-07T19:25:48.436Z -   <-- GET /api/auth/callback
+2024-07-07T19:25:48.439Z -   --> GET /api/auth/callback [31m500[0m 3ms
+2024-07-07T19:26:05.286Z -   <-- GET /api/auth/register
+2024-07-07T19:26:05.291Z -   --> GET /api/auth/register [36m302[0m 5ms
+2024-07-07T19:26:24.196Z -   <-- GET /api/auth/callback
+2024-07-07T19:26:24.199Z -   --> GET /api/auth/callback [31m500[0m 2ms
+2024-07-07T19:32:59.791Z -   <-- GET /api/auth/callback
+2024-07-07T19:32:59.799Z -   --> GET /api/auth/callback [31m500[0m 8ms
+2024-07-07T19:33:00.688Z -   <-- GET /api/auth/callback
+2024-07-07T19:33:00.690Z -   --> GET /api/auth/callback [31m500[0m 1ms
+2024-07-07T19:33:08.118Z -   <-- GET /api/auth/register
+2024-07-07T19:33:08.123Z -   --> GET /api/auth/register [36m302[0m 5ms
+2024-07-07T19:33:37.672Z -   <-- GET /api/auth/callback
+2024-07-07T19:33:37.673Z -   --> GET /api/auth/callback [31m500[0m 1ms
+2024-07-07T19:35:03.507Z -   <-- GET /api/auth/callback
+2024-07-07T19:35:03.511Z -   --> GET /api/auth/callback [31m500[0m 3ms
+2024-07-07T19:44:20.392Z -   <-- GET /api/auth/callback
+2024-07-07T19:44:20.404Z -   --> GET /api/auth/callback [31m500[0m 10ms
+2024-07-07T19:44:31.081Z -   <-- GET /api/auth/callback
+2024-07-07T19:44:31.083Z -   --> GET /api/auth/callback [31m500[0m 2ms
+2024-07-07T19:44:36.028Z -   <-- GET /api/auth/register
+2024-07-07T19:44:36.031Z -   --> GET /api/auth/register [31m500[0m 3ms
+2024-07-07T19:44:42.871Z -   <-- GET /api/auth/register
+2024-07-07T19:44:42.874Z -   --> GET /api/auth/register [31m500[0m 2ms
+2024-07-07T19:46:18.079Z -   <-- GET /api/auth/register
+2024-07-07T19:46:18.085Z -   --> GET /api/auth/register [36m302[0m 5ms
+2024-07-08T18:38:01.330Z -   <-- GET /
+2024-07-08T18:38:01.333Z -   --> GET / [32m200[0m 1ms
+2024-07-08T18:38:01.340Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-08T18:38:01.340Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-08T18:38:01.341Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-08T18:38:01.341Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-08T18:38:01.905Z -   <-- GET /api/test
+2024-07-08T18:38:01.907Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T18:39:28.419Z -   <-- GET /api/test
+2024-07-08T18:39:28.420Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T18:40:15.641Z -   <-- GET /api/test
+2024-07-08T18:40:15.643Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T18:40:22.652Z -   <-- GET /api/auth/login
+2024-07-08T18:40:22.661Z -   --> GET /api/auth/login [36m302[0m 9ms
+2024-07-08T18:40:47.766Z -   <-- GET /api/auth/callback
+2024-07-08T18:40:47.781Z -   --> GET /api/auth/callback [31m500[0m 14ms
+2024-07-08T18:46:56.561Z -   <-- GET /api/test
+2024-07-08T18:46:56.568Z -   --> GET /api/test [32m200[0m 5ms
+2024-07-08T19:01:21.589Z -   <-- GET /api/test
+2024-07-08T19:01:21.595Z -   --> GET /api/test [32m200[0m 4ms
+2024-07-08T19:01:22.510Z -   <-- GET /api/test
+2024-07-08T19:01:22.511Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:01:23.211Z -   <-- GET /api/test
+2024-07-08T19:01:23.212Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:01:33.508Z -   <-- GET /api/test
+2024-07-08T19:01:33.510Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:01:59.870Z -   <-- GET /api/test
+2024-07-08T19:01:59.871Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:00.458Z -   <-- GET /api/test
+2024-07-08T19:02:00.459Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:00.733Z -   <-- GET /api/test
+2024-07-08T19:02:00.734Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:06.142Z -   <-- GET /api/test
+2024-07-08T19:02:06.145Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:02:06.366Z -   <-- GET /api/test
+2024-07-08T19:02:06.367Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:06.528Z -   <-- GET /api/test
+2024-07-08T19:02:06.529Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:06.714Z -   <-- GET /api/test
+2024-07-08T19:02:06.715Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:06.861Z -   <-- GET /api/test
+2024-07-08T19:02:06.862Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:07.026Z -   <-- GET /api/test
+2024-07-08T19:02:07.027Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:07.177Z -   <-- GET /api/test
+2024-07-08T19:02:07.178Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:07.349Z -   <-- GET /api/test
+2024-07-08T19:02:07.350Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:07.533Z -   <-- GET /api/test
+2024-07-08T19:02:07.534Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:07.685Z -   <-- GET /api/test
+2024-07-08T19:02:07.686Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:07.853Z -   <-- GET /api/test
+2024-07-08T19:02:07.854Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:08.003Z -   <-- GET /api/test
+2024-07-08T19:02:08.003Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:08.157Z -   <-- GET /api/test
+2024-07-08T19:02:08.158Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:08.304Z -   <-- GET /api/test
+2024-07-08T19:02:08.305Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:08.499Z -   <-- GET /api/test
+2024-07-08T19:02:08.499Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:02:54.825Z -   <-- GET /api/test
+2024-07-08T19:02:54.827Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:02:59.870Z -   <-- GET /api/test
+2024-07-08T19:02:59.871Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:03:00.785Z -   <-- GET /api/test
+2024-07-08T19:03:00.786Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:03:01.334Z -   <-- GET /api/test
+2024-07-08T19:03:01.336Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:03:01.659Z -   <-- GET /api/test
+2024-07-08T19:03:01.660Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:03:01.873Z -   <-- GET /api/test
+2024-07-08T19:03:01.874Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:06:48.689Z -   <-- GET /api/test
+2024-07-08T19:06:48.690Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:08:01.816Z -   <-- GET /api/test
+2024-07-08T19:08:01.819Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:09:40.357Z -   <-- GET /api/test
+2024-07-08T19:09:40.358Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:09:50.244Z -   <-- GET /api/test
+2024-07-08T19:09:50.246Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:09:51.234Z -   <-- GET /api/test
+2024-07-08T19:09:51.236Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-08T19:09:57.176Z -   <-- GET /api/test
+2024-07-08T19:09:57.178Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:10:05.228Z -   <-- GET /api/test
+2024-07-08T19:10:05.230Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:10:06.039Z -   <-- GET /api/test
+2024-07-08T19:10:06.040Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:10:19.549Z -   <-- GET /api/test
+2024-07-08T19:10:19.550Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:10:33.188Z -   <-- GET /api/test
+2024-07-08T19:10:33.191Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:10:56.207Z -   <-- GET /api/test
+2024-07-08T19:10:56.209Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:11:05.985Z -   <-- GET /api/test
+2024-07-08T19:11:05.987Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:12:22.712Z -   <-- GET /api/test
+2024-07-08T19:12:22.714Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-08T19:12:41.394Z -   <-- GET /api/test
+2024-07-08T19:12:41.395Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:12:52.184Z -   <-- GET /api/test
+2024-07-08T19:12:52.186Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:13:17.258Z -   <-- GET /api/test
+2024-07-08T19:13:17.260Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-08T19:14:29.066Z -   <-- GET /api/test
+2024-07-08T19:14:29.073Z -   --> GET /api/test [31m500[0m 6ms
+2024-07-08T19:14:48.640Z -   <-- GET /api/test
+2024-07-08T19:14:48.641Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-08T19:14:58.857Z -   <-- GET /api/test
+2024-07-08T19:14:58.858Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-08T19:15:14.371Z -   <-- GET /api/test
+2024-07-08T19:15:14.373Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-09T09:32:20.771Z -   <-- GET /
+2024-07-09T09:32:20.776Z -   --> GET / [32m200[0m 3ms
+2024-07-09T09:32:20.792Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:32:20.792Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:32:20.793Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:32:20.794Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:32:20.837Z -   <-- GET /apple-touch-icon-precomposed.png
+2024-07-09T09:32:20.837Z -   --> GET /apple-touch-icon-precomposed.png [33m404[0m 0ms
+2024-07-09T09:32:20.840Z -   <-- GET /apple-touch-icon.png
+2024-07-09T09:32:20.840Z -   --> GET /apple-touch-icon.png [33m404[0m 0ms
+2024-07-09T09:32:21.362Z -   <-- GET /api/test
+2024-07-09T09:32:21.363Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:32:25.777Z -   <-- GET /api/test
+2024-07-09T09:32:25.778Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:32:50.014Z -   <-- GET /api/test
+2024-07-09T09:32:50.017Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T09:33:24.599Z -   <-- GET /api/test
+2024-07-09T09:33:24.601Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:33:29.657Z -   <-- GET /api/test
+2024-07-09T09:33:29.658Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:33:33.534Z -   <-- GET /api/test
+2024-07-09T09:33:33.537Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T09:33:44.210Z -   <-- GET /api/test
+2024-07-09T09:33:44.212Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T09:33:46.672Z -   <-- GET /api/test
+2024-07-09T09:33:46.674Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T09:33:55.842Z -   <-- GET /api/test
+2024-07-09T09:33:55.844Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:34:11.578Z -   <-- GET /api/test
+2024-07-09T09:34:11.580Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T09:34:15.375Z -   <-- GET /api/test
+2024-07-09T09:34:15.376Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:34:59.658Z -   <-- GET /api/test
+2024-07-09T09:34:59.661Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:35:02.839Z -   <-- GET /api/test
+2024-07-09T09:35:02.840Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:36:17.741Z -   <-- GET /api/test
+2024-07-09T09:36:17.743Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:36:47.783Z -   <-- GET /api/test
+2024-07-09T09:36:47.784Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:36:56.671Z -   <-- GET /api/test
+2024-07-09T09:36:56.673Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T09:37:16.590Z -   <-- GET /api/test
+2024-07-09T09:37:16.592Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:37:17.010Z -   <-- GET /api/test
+2024-07-09T09:37:17.010Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:38:03.055Z -   <-- GET /api/test
+2024-07-09T09:38:03.057Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:38:13.481Z -   <-- GET /api/test
+2024-07-09T09:38:13.483Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T09:38:25.479Z -   <-- GET /api/test
+2024-07-09T09:38:25.481Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:38:26.013Z -   <-- GET /api/test
+2024-07-09T09:38:26.016Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T09:38:26.373Z -   <-- GET /api/test
+2024-07-09T09:38:26.374Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:38:37.232Z -   <-- GET /api/test
+2024-07-09T09:38:37.233Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:38:37.952Z -   <-- GET /api/test
+2024-07-09T09:38:37.953Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:41:56.164Z -   <-- GET /api/test
+2024-07-09T09:41:56.166Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:41:56.774Z -   <-- GET /api/test
+2024-07-09T09:41:56.775Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:41:57.141Z -   <-- GET /api/test
+2024-07-09T09:41:57.141Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:41:57.305Z -   <-- GET /api/test
+2024-07-09T09:41:57.306Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:41:57.469Z -   <-- GET /api/test
+2024-07-09T09:41:57.470Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:41:57.621Z -   <-- GET /api/test
+2024-07-09T09:41:57.623Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:41:57.769Z -   <-- GET /api/test
+2024-07-09T09:41:57.770Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:41:58.039Z -   <-- GET /api/test
+2024-07-09T09:41:58.039Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:41:58.179Z -   <-- GET /api/test
+2024-07-09T09:41:58.180Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:41:58.332Z -   <-- GET /api/test
+2024-07-09T09:41:58.333Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:43:06.918Z -   <-- GET /api/auth/login
+2024-07-09T09:43:06.926Z -   --> GET /api/auth/login [36m302[0m 8ms
+2024-07-09T09:43:08.488Z -   <-- GET /api/auth/callback
+2024-07-09T09:43:09.703Z -   --> GET /api/auth/callback [36m302[0m 1s
+2024-07-09T09:43:09.718Z -   <-- GET /
+2024-07-09T09:43:09.719Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:43:09.732Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:43:09.733Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:43:09.734Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:43:09.735Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:43:10.308Z -   <-- GET /api/test
+2024-07-09T09:43:10.309Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:43:32.010Z -   <-- GET /api/auth/register
+2024-07-09T09:43:32.011Z -   --> GET /api/auth/register [36m302[0m 1ms
+2024-07-09T09:43:52.255Z -   <-- GET /api/auth/callback
+2024-07-09T09:43:52.603Z -   --> GET /api/auth/callback [36m302[0m 347ms
+2024-07-09T09:43:52.942Z -   <-- GET /
+2024-07-09T09:43:52.943Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:43:52.954Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:43:52.955Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:43:52.956Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:43:52.956Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:43:53.517Z -   <-- GET /api/test
+2024-07-09T09:43:53.518Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:44:02.826Z -   <-- GET /api/auth/use
+2024-07-09T09:44:02.827Z -   --> GET /api/auth/use [33m404[0m 1ms
+2024-07-09T09:44:04.914Z -   <-- GET /api/auth/user
+2024-07-09T09:44:04.917Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:44:08.112Z -   <-- GET /api/auth/login
+2024-07-09T09:44:08.114Z -   --> GET /api/auth/login [36m302[0m 1ms
+2024-07-09T09:44:08.598Z -   <-- GET /api/auth/callback
+2024-07-09T09:44:08.948Z -   --> GET /api/auth/callback [36m302[0m 350ms
+2024-07-09T09:44:08.963Z -   <-- GET /
+2024-07-09T09:44:08.964Z -   --> GET / [32m200[0m 1ms
+2024-07-09T09:44:08.976Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:44:08.977Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:44:08.978Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:44:08.978Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:44:09.545Z -   <-- GET /api/test
+2024-07-09T09:44:09.545Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:44:20.003Z -   <-- GET /api/test
+2024-07-09T09:44:20.004Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:44:44.393Z -   <-- GET /api/test
+2024-07-09T09:44:44.395Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:44:49.558Z -   <-- GET /api/test
+2024-07-09T09:44:49.560Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:44:59.598Z -   <-- GET /api/auth/user
+2024-07-09T09:44:59.602Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:45:44.979Z -   <-- GET /api/auth/user
+2024-07-09T09:45:44.983Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:45:47.430Z -   <-- GET /api/auth/register
+2024-07-09T09:45:47.433Z -   --> GET /api/auth/register [36m302[0m 2ms
+2024-07-09T09:46:13.993Z -   <-- GET /api/auth/callback
+2024-07-09T09:46:14.815Z -   --> GET /api/auth/callback [36m302[0m 822ms
+2024-07-09T09:46:14.831Z -   <-- GET /
+2024-07-09T09:46:14.831Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:46:14.849Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:46:14.853Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 3ms
+2024-07-09T09:46:14.856Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:46:14.856Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:46:15.420Z -   <-- GET /api/test
+2024-07-09T09:46:15.422Z -   --> GET /api/test [31m500[0m 2ms
+2024-07-09T09:46:23.437Z -   <-- GET /api/test
+2024-07-09T09:46:23.439Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-09T09:46:25.446Z -   <-- GET /api/test
+2024-07-09T09:46:25.448Z -   --> GET /api/test [31m500[0m 0ms
+2024-07-09T09:48:07.242Z -   <-- GET /
+2024-07-09T09:48:07.243Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:48:07.255Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:48:07.256Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:48:07.257Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:48:07.258Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:48:07.819Z -   <-- GET /api/test
+2024-07-09T09:48:07.820Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:48:19.073Z -   <-- GET /api/auth/user
+2024-07-09T09:48:19.077Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:48:28.121Z -   <-- GET /api/auth/user
+2024-07-09T09:48:29.199Z -   <-- GET /api/auth/user
+2024-07-09T09:48:29.773Z -   <-- GET /api/auth/user
+2024-07-09T09:48:30.014Z -   --> GET /api/auth/user [33m401[0m 2s
+2024-07-09T09:48:30.014Z -   --> GET /api/auth/user [33m401[0m 815ms
+2024-07-09T09:48:30.014Z -   --> GET /api/auth/user [33m401[0m 241ms
+2024-07-09T09:48:30.460Z -   <-- GET /api/auth/user
+2024-07-09T09:48:30.462Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T09:48:30.991Z -   <-- GET /api/auth/user
+2024-07-09T09:48:30.993Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:31.405Z -   <-- GET /api/auth/user
+2024-07-09T09:48:31.407Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T09:48:31.581Z -   <-- GET /api/auth/user
+2024-07-09T09:48:31.583Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:31.754Z -   <-- GET /api/auth/user
+2024-07-09T09:48:31.755Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:31.912Z -   <-- GET /api/auth/user
+2024-07-09T09:48:31.915Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:48:32.060Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.063Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T09:48:32.220Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.222Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T09:48:32.371Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.373Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:32.536Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.538Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:32.704Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.706Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:32.856Z -   <-- GET /api/auth/user
+2024-07-09T09:48:32.858Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:33.025Z -   <-- GET /api/auth/user
+2024-07-09T09:48:33.026Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:48:33.169Z -   <-- GET /api/auth/user
+2024-07-09T09:48:33.171Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T09:48:33.331Z -   <-- GET /api/auth/user
+2024-07-09T09:48:33.333Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T09:49:14.150Z -   <-- GET /api/auth/user
+2024-07-09T09:49:14.938Z -   --> GET /api/auth/user [33m401[0m 787ms
+2024-07-09T09:50:57.869Z -   <-- GET /api/auth/user
+2024-07-09T09:50:58.664Z -   <-- GET /api/auth/user
+2024-07-09T09:50:59.481Z -   <-- GET /api/auth/user
+2024-07-09T09:50:59.570Z -   --> GET /api/auth/user [33m401[0m 2s
+2024-07-09T09:50:59.570Z -   --> GET /api/auth/user [33m401[0m 905ms
+2024-07-09T09:50:59.570Z -   --> GET /api/auth/user [33m401[0m 89ms
+2024-07-09T09:51:09.714Z -   <-- GET /api/auth/register
+2024-07-09T09:51:09.718Z -   --> GET /api/auth/register [36m302[0m 4ms
+2024-07-09T09:52:09.120Z -   <-- GET /api/auth/callback
+2024-07-09T09:52:10.063Z -   --> GET /api/auth/callback [36m302[0m 942ms
+2024-07-09T09:52:10.076Z -   <-- GET /
+2024-07-09T09:52:10.077Z -   --> GET / [32m200[0m 1ms
+2024-07-09T09:52:10.089Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:52:10.090Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:52:10.094Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:52:10.099Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:52:10.667Z -   <-- GET /api/test
+2024-07-09T09:52:10.668Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:52:14.054Z -   <-- GET /api/test
+2024-07-09T09:52:14.055Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:52:25.178Z -   <-- GET /api/auth/login
+2024-07-09T09:52:25.183Z -   --> GET /api/auth/login [36m302[0m 4ms
+2024-07-09T09:52:25.663Z -   <-- GET /api/auth/callback
+2024-07-09T09:52:26.081Z -   --> GET /api/auth/callback [36m302[0m 418ms
+2024-07-09T09:52:26.094Z -   <-- GET /
+2024-07-09T09:52:26.095Z -   --> GET / [32m200[0m 1ms
+2024-07-09T09:52:26.122Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:52:26.123Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:52:26.124Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:52:26.125Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:52:26.692Z -   <-- GET /api/test
+2024-07-09T09:52:26.693Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:52:36.632Z -   <-- GET /api/test
+2024-07-09T09:52:36.633Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:52:37.233Z -   <-- GET /api/auth/user
+2024-07-09T09:52:37.236Z -   --> GET /api/auth/user [33m401[0m 3ms
+2024-07-09T09:53:15.947Z -   <-- GET /
+2024-07-09T09:53:15.948Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:53:15.957Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:53:15.957Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:53:15.959Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:53:15.959Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:53:16.502Z -   <-- GET /api/test
+2024-07-09T09:53:16.503Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:53:35.958Z -   <-- GET /api/test
+2024-07-09T09:53:35.961Z -   --> GET /api/test [31m500[0m 2ms
+2024-07-09T09:53:36.750Z -   <-- GET /
+2024-07-09T09:53:36.751Z -   --> GET / [32m200[0m 1ms
+2024-07-09T09:53:36.762Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:53:36.763Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:53:36.764Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:53:36.765Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:53:37.307Z -   <-- GET /api/test
+2024-07-09T09:53:37.309Z -   --> GET /api/test [31m500[0m 2ms
+2024-07-09T09:53:38.344Z -   <-- GET /api/test
+2024-07-09T09:53:38.345Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-09T09:53:43.335Z -   <-- GET /api/test
+2024-07-09T09:53:43.336Z -   --> GET /api/test [31m500[0m 1ms
+2024-07-09T09:53:54.004Z -   <-- GET /api/test
+2024-07-09T09:53:54.005Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:53:54.694Z -   <-- GET /
+2024-07-09T09:53:54.695Z -   --> GET / [32m200[0m 1ms
+2024-07-09T09:53:54.707Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:53:54.709Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:53:54.710Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:53:54.711Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:53:55.272Z -   <-- GET /api/test
+2024-07-09T09:53:55.272Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:53:59.121Z -   <-- GET /api/test
+2024-07-09T09:53:59.122Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:54:14.903Z -   <-- GET /api/test
+2024-07-09T09:54:14.904Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:54:16.451Z -   <-- GET /api/test
+2024-07-09T09:54:16.452Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:56:57.990Z -   <-- GET /api/test
+2024-07-09T09:56:57.992Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T09:57:34.858Z -   <-- GET /api/test
+2024-07-09T09:57:34.859Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:57:35.391Z -   <-- GET /
+2024-07-09T09:57:35.392Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:57:35.402Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:57:35.403Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T09:57:35.404Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:57:35.405Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T09:57:35.941Z -   <-- GET /api/test
+2024-07-09T09:57:35.941Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T09:57:45.377Z -   <-- GET /api/auth/callback
+2024-07-09T09:57:45.379Z -   --> GET /api/auth/callback [36m302[0m 2ms
+2024-07-09T09:57:45.386Z -   <-- GET /
+2024-07-09T09:57:45.386Z -   --> GET / [32m200[0m 0ms
+2024-07-09T09:57:45.395Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T09:57:45.395Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T09:57:45.397Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T09:57:45.397Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T09:57:45.941Z -   <-- GET /api/test
+2024-07-09T09:57:45.942Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T10:31:47.568Z -   <-- GET /api/test
+2024-07-09T10:31:47.577Z -   --> GET /api/test [32m200[0m 6ms
+2024-07-09T10:31:48.400Z -   <-- GET /
+2024-07-09T10:31:48.402Z -   --> GET / [32m200[0m 2ms
+2024-07-09T10:31:48.421Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T10:31:48.422Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T10:31:48.424Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T10:31:48.425Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T10:31:48.990Z -   <-- GET /api/test
+2024-07-09T10:31:48.992Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T10:32:25.647Z -   <-- GET /api/test
+2024-07-09T10:32:25.650Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T10:32:26.420Z -   <-- GET /
+2024-07-09T10:32:26.421Z -   --> GET / [32m200[0m 1ms
+2024-07-09T10:32:26.431Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T10:32:26.433Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T10:32:26.435Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T10:32:26.436Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T10:32:26.974Z -   <-- GET /api/test
+2024-07-09T10:32:26.976Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T10:32:52.065Z -   <-- GET /api/test
+2024-07-09T10:32:52.068Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T10:32:52.882Z -   <-- GET /
+2024-07-09T10:32:52.883Z -   --> GET / [32m200[0m 1ms
+2024-07-09T10:32:52.894Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T10:32:52.896Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T10:32:52.897Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T10:32:52.898Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T10:32:53.436Z -   <-- GET /api/test
+2024-07-09T10:32:53.438Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T10:33:16.393Z -   <-- GET /api/test
+2024-07-09T10:33:16.394Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T10:33:17.099Z -   <-- GET /
+2024-07-09T10:33:17.102Z -   --> GET / [32m200[0m 2ms
+2024-07-09T10:33:17.113Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T10:33:17.114Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T10:33:17.115Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T10:33:17.116Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T10:33:17.655Z -   <-- GET /api/test
+2024-07-09T10:33:17.657Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T10:33:32.757Z -   <-- GET /api/test
+2024-07-09T10:33:32.758Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T10:34:39.791Z -   <-- GET /api/test
+2024-07-09T10:34:39.794Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T10:34:40.192Z -   <-- GET /
+2024-07-09T10:34:40.194Z -   --> GET / [32m200[0m 1ms
+2024-07-09T10:34:40.206Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T10:34:40.207Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T10:34:40.209Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T10:34:40.210Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T10:34:40.744Z -   <-- GET /api/test
+2024-07-09T10:34:40.745Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:21:08.364Z -   <-- GET /api/test
+2024-07-09T11:21:08.368Z -   --> GET /api/test [32m200[0m 3ms
+2024-07-09T11:21:09.413Z -   <-- GET /
+2024-07-09T11:21:09.414Z -   --> GET / [32m200[0m 1ms
+2024-07-09T11:21:09.438Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T11:21:09.438Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T11:21:09.440Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:21:09.441Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T11:21:10.012Z -   <-- GET /api/test
+2024-07-09T11:21:10.013Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T11:21:16.480Z -   <-- GET /api/test
+2024-07-09T11:21:16.481Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T11:21:20.310Z -   <-- GET /api/login
+2024-07-09T11:21:20.312Z -   --> GET /api/login [33m404[0m 1ms
+2024-07-09T11:21:25.613Z -   <-- GET /api/auth/login
+2024-07-09T11:21:26.924Z -   --> GET /api/auth/login [33m401[0m 1s
+2024-07-09T11:22:22.191Z -   <-- GET /api/auth/login
+2024-07-09T11:22:22.498Z -   --> GET /api/auth/login [33m401[0m 307ms
+2024-07-09T11:25:31.079Z -   <-- GET /api/auth/login
+2024-07-09T11:25:31.330Z -   --> GET /api/auth/login [36m302[0m 250ms
+2024-07-09T11:25:31.341Z -   <-- GET /
+2024-07-09T11:25:31.341Z -   --> GET / [32m200[0m 0ms
+2024-07-09T11:25:31.354Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T11:25:31.354Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T11:25:31.355Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:25:31.355Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T11:25:31.913Z -   <-- GET /api/test
+2024-07-09T11:25:31.914Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T11:25:33.142Z -   <-- GET /api/test
+2024-07-09T11:25:33.143Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:25:58.446Z -   <-- GET /api/test
+2024-07-09T11:25:58.447Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:27:31.618Z -   <-- GET /api/test
+2024-07-09T11:27:31.620Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:31:03.846Z -   <-- GET /api/test
+2024-07-09T11:31:03.847Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:31:04.841Z -   <-- GET /
+2024-07-09T11:31:04.842Z -   --> GET / [32m200[0m 1ms
+2024-07-09T11:31:04.855Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T11:31:04.856Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 1ms
+2024-07-09T11:31:04.857Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:31:04.858Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T11:31:05.414Z -   <-- GET /api/test
+2024-07-09T11:31:05.414Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T11:31:47.104Z -   <-- GET /api/auth/user
+2024-07-09T11:31:47.107Z -   --> GET /api/auth/user [32m200[0m 2ms
+2024-07-09T11:31:51.933Z -   <-- GET /api/auth/user
+2024-07-09T11:31:51.934Z -   --> GET /api/auth/user [32m200[0m 1ms
+2024-07-09T11:32:10.161Z -   <-- GET /api/auth/user
+2024-07-09T11:32:10.465Z -   --> GET /api/auth/user [32m200[0m 303ms
+2024-07-09T11:32:14.670Z -   <-- GET /api/auth/user
+2024-07-09T11:32:14.745Z -   --> GET /api/auth/user [32m200[0m 75ms
+2024-07-09T11:32:15.467Z -   <-- GET /api/auth/user
+2024-07-09T11:32:15.540Z -   --> GET /api/auth/user [32m200[0m 73ms
+2024-07-09T11:32:15.754Z -   <-- GET /api/auth/user
+2024-07-09T11:32:15.818Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T11:32:15.939Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.001Z -   --> GET /api/auth/user [32m200[0m 62ms
+2024-07-09T11:32:16.086Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.158Z -   --> GET /api/auth/user [32m200[0m 70ms
+2024-07-09T11:32:16.233Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.298Z -   --> GET /api/auth/user [32m200[0m 65ms
+2024-07-09T11:32:16.357Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.420Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T11:32:16.484Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.556Z -   --> GET /api/auth/user [32m200[0m 72ms
+2024-07-09T11:32:16.621Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.684Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T11:32:16.735Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.799Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T11:32:16.859Z -   <-- GET /api/auth/user
+2024-07-09T11:32:16.934Z -   --> GET /api/auth/user [32m200[0m 75ms
+2024-07-09T11:33:02.044Z -   <-- GET /api/auth/user
+2024-07-09T11:33:02.221Z -   --> GET /api/auth/user [32m200[0m 176ms
+2024-07-09T11:33:14.006Z -   <-- GET /api/auth/user
+2024-07-09T11:33:14.185Z -   --> GET /api/auth/user [31m500[0m 179ms
+2024-07-09T11:33:15.022Z -   <-- GET /api/auth/user
+2024-07-09T11:33:15.098Z -   --> GET /api/auth/user [32m200[0m 74ms
+2024-07-09T11:33:15.731Z -   <-- GET /api/auth/user
+2024-07-09T11:33:15.796Z -   --> GET /api/auth/user [32m200[0m 65ms
+2024-07-09T11:39:09.929Z -   <-- GET /api/auth/user
+2024-07-09T11:39:10.566Z -   --> GET /api/auth/user [32m200[0m 636ms
+2024-07-09T11:41:55.308Z -   <-- GET /
+2024-07-09T11:41:55.310Z -   --> GET / [32m200[0m 2ms
+2024-07-09T11:41:55.330Z -   <-- GET /assets/index-mVN9zAe0.js
+2024-07-09T11:41:55.331Z -   --> GET /assets/index-mVN9zAe0.js [32m200[0m 0ms
+2024-07-09T11:41:55.335Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:41:55.336Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T11:41:55.909Z -   <-- GET /api/test
+2024-07-09T11:41:55.910Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T11:42:10.573Z -   <-- GET /api/test
+2024-07-09T11:42:10.574Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T11:42:11.261Z -   <-- GET /
+2024-07-09T11:42:11.261Z -   --> GET / [32m200[0m 0ms
+2024-07-09T11:42:11.289Z -   <-- GET /assets/index-D4Zd0jbt.js
+2024-07-09T11:42:11.290Z -   --> GET /assets/index-D4Zd0jbt.js [32m200[0m 1ms
+2024-07-09T11:42:11.291Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:42:11.292Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T11:42:11.857Z -   <-- GET /api/auth/user
+2024-07-09T11:42:12.046Z -   --> GET /api/auth/user [32m200[0m 188ms
+2024-07-09T11:42:30.566Z -   <-- GET /api/auth/user
+2024-07-09T11:42:30.733Z -   --> GET /api/auth/user [32m200[0m 166ms
+2024-07-09T11:47:16.784Z -   <-- GET /api/auth/user
+2024-07-09T11:47:17.114Z -   --> GET /api/auth/user [32m200[0m 327ms
+2024-07-09T11:47:35.668Z -   <-- GET /api/auth/user
+2024-07-09T11:47:35.857Z -   --> GET /api/auth/user [32m200[0m 189ms
+2024-07-09T11:48:19.866Z -   <-- GET /api/auth/user
+2024-07-09T11:48:20.036Z -   --> GET /api/auth/user [32m200[0m 169ms
+2024-07-09T11:48:23.241Z -   <-- GET /
+2024-07-09T11:48:23.241Z -   --> GET / [32m200[0m 0ms
+2024-07-09T11:48:23.270Z -   <-- GET /assets/index-D4Zd0jbt.js
+2024-07-09T11:48:23.271Z -   --> GET /assets/index-D4Zd0jbt.js [32m200[0m 0ms
+2024-07-09T11:48:23.274Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:48:23.275Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T11:48:23.836Z -   <-- GET /api/auth/user
+2024-07-09T11:48:23.901Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T11:52:51.936Z -   <-- GET /api/auth/user
+2024-07-09T11:52:52.173Z -   --> GET /api/auth/user [32m200[0m 234ms
+2024-07-09T11:57:48.545Z -   <-- GET /api/auth/user
+2024-07-09T11:57:48.979Z -   <-- GET /
+2024-07-09T11:57:48.980Z -   --> GET / [32m200[0m 0ms
+2024-07-09T11:57:49.023Z -   <-- GET /assets/index-D4Zd0jbt.js
+2024-07-09T11:57:49.024Z -   --> GET /assets/index-D4Zd0jbt.js [32m200[0m 1ms
+2024-07-09T11:57:49.026Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:57:49.026Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T11:57:49.610Z -   <-- GET /api/auth/user
+2024-07-09T11:57:49.807Z -   --> GET /api/auth/user [32m200[0m 197ms
+2024-07-09T11:57:49.811Z -   --> GET /api/auth/user [32m200[0m 1s
+2024-07-09T11:58:04.530Z -   <-- GET /api/auth/user
+2024-07-09T11:58:04.842Z -   --> GET /api/auth/user [32m200[0m 311ms
+2024-07-09T11:58:05.286Z -   <-- GET /
+2024-07-09T11:58:05.287Z -   --> GET / [32m200[0m 1ms
+2024-07-09T11:58:05.322Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T11:58:05.322Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 0ms
+2024-07-09T11:58:05.323Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:58:05.323Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T11:58:05.900Z -   <-- GET /api/auth/user
+2024-07-09T11:58:05.964Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T11:58:06.974Z -   <-- GET /api/auth/user
+2024-07-09T11:58:07.317Z -   --> GET /api/auth/user [32m200[0m 343ms
+2024-07-09T11:58:09.326Z -   <-- GET /api/auth/user
+2024-07-09T11:58:09.408Z -   --> GET /api/auth/user [32m200[0m 82ms
+2024-07-09T11:58:13.420Z -   <-- GET /api/auth/user
+2024-07-09T11:58:13.648Z -   --> GET /api/auth/user [32m200[0m 227ms
+2024-07-09T11:58:22.366Z -   <-- GET /api/auth/user
+2024-07-09T11:58:22.536Z -   --> GET /api/auth/user [32m200[0m 170ms
+2024-07-09T11:58:23.547Z -   <-- GET /api/auth/user
+2024-07-09T11:58:23.614Z -   --> GET /api/auth/user [32m200[0m 67ms
+2024-07-09T11:58:25.624Z -   <-- GET /api/auth/user
+2024-07-09T11:58:25.743Z -   --> GET /api/auth/user [32m200[0m 119ms
+2024-07-09T11:58:29.204Z -   <-- GET /
+2024-07-09T11:58:29.205Z -   --> GET / [32m200[0m 0ms
+2024-07-09T11:58:29.217Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T11:58:29.218Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 1ms
+2024-07-09T11:58:29.218Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:58:29.219Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T11:58:29.759Z -   <-- GET /api/auth/user
+2024-07-09T11:58:29.893Z -   --> GET /api/auth/user [32m200[0m 134ms
+2024-07-09T11:58:30.904Z -   <-- GET /api/auth/user
+2024-07-09T11:58:31.015Z -   --> GET /api/auth/user [32m200[0m 111ms
+2024-07-09T11:58:33.025Z -   <-- GET /api/auth/user
+2024-07-09T11:58:33.133Z -   --> GET /api/auth/user [32m200[0m 107ms
+2024-07-09T11:58:37.145Z -   <-- GET /api/auth/user
+2024-07-09T11:58:37.460Z -   --> GET /api/auth/user [32m200[0m 313ms
+2024-07-09T11:58:43.482Z -   <-- GET /api/auth/user
+2024-07-09T11:58:43.653Z -   --> GET /api/auth/user [32m200[0m 171ms
+2024-07-09T11:58:44.093Z -   <-- GET /
+2024-07-09T11:58:44.094Z -   --> GET / [32m200[0m 1ms
+2024-07-09T11:58:44.104Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T11:58:44.105Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 1ms
+2024-07-09T11:58:44.105Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T11:58:44.106Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T11:58:44.643Z -   <-- GET /api/auth/user
+2024-07-09T11:58:44.718Z -   --> GET /api/auth/user [32m200[0m 75ms
+2024-07-09T11:58:45.728Z -   <-- GET /api/auth/user
+2024-07-09T11:58:45.815Z -   --> GET /api/auth/user [32m200[0m 86ms
+2024-07-09T11:58:47.827Z -   <-- GET /api/auth/user
+2024-07-09T11:58:48.017Z -   --> GET /api/auth/user [32m200[0m 190ms
+2024-07-09T11:59:31.689Z -   <-- GET /api/auth/user
+2024-07-09T11:59:31.866Z -   --> GET /api/auth/user [32m200[0m 176ms
+2024-07-09T12:03:33.066Z -   <-- GET /api/auth/user
+2024-07-09T12:03:33.293Z -   --> GET /api/auth/user [32m200[0m 224ms
+2024-07-09T12:03:34.310Z -   <-- GET /api/auth/user
+2024-07-09T12:03:34.411Z -   --> GET /api/auth/user [32m200[0m 100ms
+2024-07-09T12:04:27.002Z -   <-- GET /api/auth/user
+2024-07-09T12:04:27.284Z -   --> GET /api/auth/user [32m200[0m 281ms
+2024-07-09T12:04:38.748Z -   <-- GET /api/auth/user
+2024-07-09T12:04:38.915Z -   --> GET /api/auth/user [32m200[0m 166ms
+2024-07-09T12:04:40.009Z -   <-- GET /
+2024-07-09T12:04:40.013Z -   --> GET / [32m200[0m 4ms
+2024-07-09T12:04:40.047Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T12:04:40.048Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 0ms
+2024-07-09T12:04:40.049Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:04:40.050Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T12:04:40.615Z -   <-- GET /api/auth/user
+2024-07-09T12:04:40.699Z -   --> GET /api/auth/user [32m200[0m 84ms
+2024-07-09T12:04:41.708Z -   <-- GET /api/auth/user
+2024-07-09T12:04:41.801Z -   --> GET /api/auth/user [32m200[0m 92ms
+2024-07-09T12:04:43.814Z -   <-- GET /api/auth/user
+2024-07-09T12:04:43.927Z -   --> GET /api/auth/user [32m200[0m 113ms
+2024-07-09T12:04:53.720Z -   <-- GET /api/auth/user
+2024-07-09T12:04:53.903Z -   --> GET /api/auth/user [32m200[0m 180ms
+2024-07-09T12:04:54.290Z -   <-- GET /
+2024-07-09T12:04:54.291Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:04:54.305Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T12:04:54.305Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 0ms
+2024-07-09T12:04:54.307Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:04:54.307Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:04:54.844Z -   <-- GET /api/auth/user
+2024-07-09T12:04:54.919Z -   --> GET /api/auth/user [32m200[0m 75ms
+2024-07-09T12:04:55.932Z -   <-- GET /api/auth/user
+2024-07-09T12:04:56.059Z -   --> GET /api/auth/user [32m200[0m 127ms
+2024-07-09T12:04:58.067Z -   <-- GET /api/auth/user
+2024-07-09T12:04:58.232Z -   --> GET /api/auth/user [32m200[0m 164ms
+2024-07-09T12:05:02.243Z -   <-- GET /api/auth/user
+2024-07-09T12:05:02.384Z -   --> GET /api/auth/user [32m200[0m 141ms
+2024-07-09T12:05:13.009Z -   <-- GET /api/auth/user
+2024-07-09T12:05:13.284Z -   --> GET /api/auth/user [32m200[0m 275ms
+2024-07-09T12:05:58.877Z -   <-- GET /api/auth/user
+2024-07-09T12:05:59.149Z -   --> GET /api/auth/user [32m200[0m 270ms
+2024-07-09T12:06:04.093Z -   <-- GET /api/auth/user
+2024-07-09T12:06:04.328Z -   --> GET /api/auth/user [32m200[0m 234ms
+2024-07-09T12:06:24.928Z -   <-- GET /api/auth/user
+2024-07-09T12:06:25.299Z -   --> GET /api/auth/user [32m200[0m 364ms
+2024-07-09T12:06:30.503Z -   <-- GET /api/auth/user
+2024-07-09T12:06:30.674Z -   --> GET /api/auth/user [32m200[0m 171ms
+2024-07-09T12:06:31.682Z -   <-- GET /api/auth/user
+2024-07-09T12:06:31.760Z -   --> GET /api/auth/user [32m200[0m 77ms
+2024-07-09T12:06:51.611Z -   <-- GET /api/auth/user
+2024-07-09T12:06:51.779Z -   --> GET /api/auth/user [32m200[0m 167ms
+2024-07-09T12:06:54.563Z -   <-- GET /
+2024-07-09T12:06:54.566Z -   --> GET / [32m200[0m 1ms
+2024-07-09T12:06:54.583Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T12:06:54.583Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 0ms
+2024-07-09T12:06:54.588Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:06:54.588Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:06:55.130Z -   <-- GET /api/auth/user
+2024-07-09T12:06:55.194Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T12:06:56.204Z -   <-- GET /api/auth/user
+2024-07-09T12:06:56.265Z -   --> GET /api/auth/user [32m200[0m 59ms
+2024-07-09T12:06:58.277Z -   <-- GET /api/auth/user
+2024-07-09T12:06:58.344Z -   --> GET /api/auth/user [32m200[0m 67ms
+2024-07-09T12:07:26.021Z -   <-- GET /api/auth/user
+2024-07-09T12:07:26.236Z -   --> GET /api/auth/user [32m200[0m 214ms
+2024-07-09T12:07:27.509Z -   <-- GET /
+2024-07-09T12:07:27.510Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:07:27.527Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T12:07:27.528Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 1ms
+2024-07-09T12:07:27.529Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:07:27.530Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:07:28.071Z -   <-- GET /api/auth/user
+2024-07-09T12:07:28.173Z -   --> GET /api/auth/user [32m200[0m 102ms
+2024-07-09T12:07:29.187Z -   <-- GET /api/auth/user
+2024-07-09T12:07:29.421Z -   --> GET /api/auth/user [32m200[0m 233ms
+2024-07-09T12:07:31.434Z -   <-- GET /api/auth/user
+2024-07-09T12:07:31.534Z -   --> GET /api/auth/user [32m200[0m 99ms
+2024-07-09T12:07:34.645Z -   <-- GET /
+2024-07-09T12:07:34.645Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:07:34.658Z -   <-- GET /assets/index-BYxy50AW.js
+2024-07-09T12:07:34.659Z -   --> GET /assets/index-BYxy50AW.js [32m200[0m 0ms
+2024-07-09T12:07:34.660Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:07:34.661Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T12:07:35.197Z -   <-- GET /api/auth/user
+2024-07-09T12:07:36.156Z -   --> GET /api/auth/user [32m200[0m 959ms
+2024-07-09T12:07:39.657Z -   <-- GET /api/auth/user
+2024-07-09T12:07:39.824Z -   --> GET /api/auth/user [32m200[0m 167ms
+2024-07-09T12:07:40.320Z -   <-- GET /
+2024-07-09T12:07:40.320Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:07:40.332Z -   <-- GET /assets/index-Q6VaL-9l.js
+2024-07-09T12:07:40.332Z -   --> GET /assets/index-Q6VaL-9l.js [32m200[0m 0ms
+2024-07-09T12:07:40.333Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:07:40.333Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:07:40.896Z -   <-- GET /api/test
+2024-07-09T12:07:40.897Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T12:18:31.005Z -   <-- GET /
+2024-07-09T12:18:31.010Z -   --> GET / [32m200[0m 3ms
+2024-07-09T12:18:31.033Z -   <-- GET /assets/index-Q6VaL-9l.js
+2024-07-09T12:18:31.034Z -   --> GET /assets/index-Q6VaL-9l.js [32m200[0m 1ms
+2024-07-09T12:18:31.035Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:18:31.035Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:18:31.609Z -   <-- GET /api/test
+2024-07-09T12:18:31.610Z -   --> GET /api/test [32m200[0m 0ms
+2024-07-09T12:18:51.431Z -   <-- GET /
+2024-07-09T12:18:51.433Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:18:51.447Z -   <-- GET /assets/index-Q6VaL-9l.js
+2024-07-09T12:18:51.448Z -   --> GET /assets/index-Q6VaL-9l.js [32m200[0m 1ms
+2024-07-09T12:18:51.448Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:18:51.449Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:18:51.988Z -   <-- GET /api/test
+2024-07-09T12:18:51.989Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T12:19:37.174Z -   <-- GET /
+2024-07-09T12:19:37.175Z -   --> GET / [33m404[0m 0ms
+2024-07-09T12:19:37.875Z -   <-- GET /
+2024-07-09T12:19:37.876Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:19:37.887Z -   <-- GET /assets/index-y-OT-aLu.js
+2024-07-09T12:19:37.888Z -   --> GET /assets/index-y-OT-aLu.js [32m200[0m 0ms
+2024-07-09T12:19:37.890Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:19:37.891Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:19:38.450Z -   <-- GET /api/test
+2024-07-09T12:19:38.451Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T12:20:35.831Z -   <-- GET /api/test
+2024-07-09T12:20:35.833Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T12:20:57.469Z -   <-- GET /api/test
+2024-07-09T12:20:57.470Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T12:21:02.870Z -   <-- GET /api/test
+2024-07-09T12:21:02.871Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T12:21:03.564Z -   <-- GET /
+2024-07-09T12:21:03.565Z -   --> GET / [32m200[0m 1ms
+2024-07-09T12:21:03.580Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T12:21:03.581Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 1ms
+2024-07-09T12:21:03.582Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:21:03.582Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:21:04.146Z -   <-- GET /api/auth/user
+2024-07-09T12:21:04.992Z -   --> GET /api/auth/user [32m200[0m 846ms
+2024-07-09T12:21:06.003Z -   <-- GET /api/auth/user
+2024-07-09T12:21:06.103Z -   --> GET /api/auth/user [32m200[0m 100ms
+2024-07-09T12:21:08.115Z -   <-- GET /api/auth/user
+2024-07-09T12:21:08.185Z -   --> GET /api/auth/user [32m200[0m 69ms
+2024-07-09T12:21:12.194Z -   <-- GET /api/auth/user
+2024-07-09T12:21:12.260Z -   --> GET /api/auth/user [32m200[0m 65ms
+2024-07-09T12:21:25.304Z -   <-- GET /api/auth/user
+2024-07-09T12:21:25.518Z -   --> GET /api/auth/user [32m200[0m 213ms
+2024-07-09T12:21:25.903Z -   <-- GET /
+2024-07-09T12:21:25.904Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:21:25.917Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T12:21:25.918Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 0ms
+2024-07-09T12:21:25.920Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:21:25.920Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:21:26.457Z -   <-- GET /api/auth/user
+2024-07-09T12:21:26.525Z -   --> GET /api/auth/user [32m200[0m 67ms
+2024-07-09T12:21:27.535Z -   <-- GET /api/auth/user
+2024-07-09T12:21:27.618Z -   --> GET /api/auth/user [32m200[0m 81ms
+2024-07-09T12:21:40.072Z -   <-- GET /api/auth/user
+2024-07-09T12:21:40.250Z -   --> GET /api/auth/user [32m200[0m 177ms
+2024-07-09T12:21:41.248Z -   <-- GET /
+2024-07-09T12:21:41.249Z -   --> GET / [32m200[0m 1ms
+2024-07-09T12:21:41.263Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T12:21:41.264Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 0ms
+2024-07-09T12:21:41.265Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:21:41.265Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T12:21:41.805Z -   <-- GET /api/auth/user
+2024-07-09T12:21:41.877Z -   --> GET /api/auth/user [32m200[0m 71ms
+2024-07-09T12:21:42.887Z -   <-- GET /api/auth/user
+2024-07-09T12:21:42.979Z -   --> GET /api/auth/user [32m200[0m 91ms
+2024-07-09T12:21:44.991Z -   <-- GET /api/auth/user
+2024-07-09T12:21:45.093Z -   --> GET /api/auth/user [32m200[0m 101ms
+2024-07-09T12:21:52.118Z -   <-- GET /api/auth/user
+2024-07-09T12:21:52.313Z -   --> GET /api/auth/user [32m200[0m 194ms
+2024-07-09T12:22:11.305Z -   <-- GET /api/auth/user
+2024-07-09T12:22:11.474Z -   --> GET /api/auth/user [32m200[0m 168ms
+2024-07-09T12:22:12.485Z -   <-- GET /api/auth/user
+2024-07-09T12:22:12.549Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T12:22:12.631Z -   <-- GET /
+2024-07-09T12:22:12.632Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:22:12.646Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T12:22:12.646Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 0ms
+2024-07-09T12:22:12.648Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:22:12.649Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T12:22:13.188Z -   <-- GET /api/auth/user
+2024-07-09T12:22:13.286Z -   --> GET /api/auth/user [32m200[0m 98ms
+2024-07-09T12:22:14.296Z -   <-- GET /api/auth/user
+2024-07-09T12:22:14.360Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T12:22:48.575Z -   <-- GET /api/auth/user
+2024-07-09T12:22:48.864Z -   --> GET /api/auth/user [32m200[0m 288ms
+2024-07-09T12:22:53.633Z -   <-- GET /api/auth/user
+2024-07-09T12:22:53.702Z -   --> GET /api/auth/user [32m200[0m 69ms
+2024-07-09T12:22:56.583Z -   <-- GET /
+2024-07-09T12:22:56.584Z -   --> GET / [32m200[0m 0ms
+2024-07-09T12:22:56.600Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T12:22:56.601Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 0ms
+2024-07-09T12:22:56.602Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T12:22:56.603Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T12:22:57.142Z -   <-- GET /api/auth/user
+2024-07-09T12:22:57.380Z -   --> GET /api/auth/user [32m200[0m 238ms
+2024-07-09T12:22:58.390Z -   <-- GET /api/auth/user
+2024-07-09T12:22:58.489Z -   --> GET /api/auth/user [32m200[0m 99ms
+2024-07-09T12:23:49.726Z -   <-- GET /api/auth/user
+2024-07-09T12:23:49.918Z -   --> GET /api/auth/user [32m200[0m 192ms
+2024-07-09T12:23:53.927Z -   <-- GET /api/auth/user
+2024-07-09T12:23:54.135Z -   --> GET /api/auth/user [32m200[0m 207ms
+2024-07-09T13:18:12.279Z -   <-- GET /
+2024-07-09T13:18:12.286Z -   --> GET / [32m200[0m 5ms
+2024-07-09T13:18:12.296Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T13:18:12.297Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 1ms
+2024-07-09T13:18:12.298Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:18:12.299Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:18:12.861Z -   <-- GET /api/auth/user
+2024-07-09T13:18:12.862Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:13.905Z -   <-- GET /api/auth/user
+2024-07-09T13:18:13.906Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:18:15.912Z -   <-- GET /api/auth/user
+2024-07-09T13:18:15.913Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:18:19.921Z -   <-- GET /api/auth/user
+2024-07-09T13:18:19.922Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:32.617Z -   <-- GET /api/auth/user
+2024-07-09T13:18:32.618Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:35.374Z -   <-- GET /api/auth/user
+2024-07-09T13:18:35.376Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:36.109Z -   <-- GET /
+2024-07-09T13:18:36.110Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:18:36.120Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T13:18:36.120Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 0ms
+2024-07-09T13:18:36.122Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:18:36.122Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:18:36.676Z -   <-- GET /api/auth/user
+2024-07-09T13:18:36.676Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:18:37.706Z -   <-- GET /api/auth/user
+2024-07-09T13:18:37.707Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:39.720Z -   <-- GET /api/auth/user
+2024-07-09T13:18:39.721Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:49.872Z -   <-- GET /api/auth/user
+2024-07-09T13:18:49.874Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T13:18:51.639Z -   <-- GET /api/auth/user
+2024-07-09T13:18:51.640Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:18:52.743Z -   <-- GET /api/auth/user
+2024-07-09T13:18:52.744Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:18:52.850Z -   <-- GET /
+2024-07-09T13:18:52.851Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:18:52.859Z -   <-- GET /assets/index-CkgRghwW.js
+2024-07-09T13:18:52.861Z -   --> GET /assets/index-CkgRghwW.js [32m200[0m 1ms
+2024-07-09T13:18:52.863Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:18:52.863Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:18:53.433Z -   <-- GET /api/auth/user
+2024-07-09T13:18:53.435Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:18:54.465Z -   <-- GET /api/auth/user
+2024-07-09T13:18:54.466Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:19:06.122Z -   <-- GET /api/auth/user
+2024-07-09T13:19:06.124Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T13:19:07.307Z -   <-- GET /
+2024-07-09T13:19:07.308Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:19:07.317Z -   <-- GET /assets/index-Cxsd4FSm.js
+2024-07-09T13:19:07.318Z -   --> GET /assets/index-Cxsd4FSm.js [32m200[0m 1ms
+2024-07-09T13:19:07.319Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:19:07.320Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:19:43.418Z -   <-- GET /
+2024-07-09T13:19:43.419Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:19:43.426Z -   <-- GET /assets/index-DOdGRyZR.js
+2024-07-09T13:19:43.427Z -   --> GET /assets/index-DOdGRyZR.js [32m200[0m 0ms
+2024-07-09T13:19:43.428Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:19:43.429Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:19:43.977Z -   <-- GET /api/auth/user
+2024-07-09T13:19:43.978Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:20:34.107Z -   <-- GET /api/auth/user
+2024-07-09T13:20:34.108Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:20:35.072Z -   <-- GET /
+2024-07-09T13:20:35.073Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:20:35.083Z -   <-- GET /assets/index-DOdGRyZR.js
+2024-07-09T13:20:35.083Z -   --> GET /assets/index-DOdGRyZR.js [32m200[0m 0ms
+2024-07-09T13:20:35.085Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:20:35.085Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:20:35.638Z -   <-- GET /api/auth/user
+2024-07-09T13:20:35.639Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:20:40.463Z -   <-- GET /api/auth/user
+2024-07-09T13:20:40.463Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:07.617Z -   <-- GET /api/auth/user
+2024-07-09T13:21:07.618Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:21:08.342Z -   <-- GET /
+2024-07-09T13:21:08.343Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:21:08.354Z -   <-- GET /assets/index-0hAx-Dpj.js
+2024-07-09T13:21:08.355Z -   --> GET /assets/index-0hAx-Dpj.js [32m200[0m 1ms
+2024-07-09T13:21:08.355Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:21:08.356Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:21:08.907Z -   <-- GET /api/auth/user
+2024-07-09T13:21:08.908Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:09.938Z -   <-- GET /api/auth/user
+2024-07-09T13:21:09.939Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:21:11.945Z -   <-- GET /api/auth/user
+2024-07-09T13:21:11.946Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:17.307Z -   <-- GET /api/auth/user
+2024-07-09T13:21:17.308Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:25.862Z -   <-- GET /api/auth/user
+2024-07-09T13:21:25.863Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:26.867Z -   <-- GET /api/auth/user
+2024-07-09T13:21:26.868Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:28.873Z -   <-- GET /api/auth/user
+2024-07-09T13:21:28.874Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T13:21:32.883Z -   <-- GET /api/auth/user
+2024-07-09T13:21:32.883Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T13:21:35.818Z -   <-- GET /api/auth/login
+2024-07-09T13:21:36.643Z -   --> GET /api/auth/login [36m302[0m 825ms
+2024-07-09T13:21:36.656Z -   <-- GET /
+2024-07-09T13:21:36.656Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:21:36.667Z -   <-- GET /assets/index-0hAx-Dpj.js
+2024-07-09T13:21:36.668Z -   --> GET /assets/index-0hAx-Dpj.js [32m200[0m 0ms
+2024-07-09T13:21:36.670Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:21:36.670Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:21:37.201Z -   <-- GET /api/auth/user
+2024-07-09T13:21:37.270Z -   --> GET /api/auth/user [32m200[0m 68ms
+2024-07-09T13:21:55.411Z -   <-- GET /api/auth/user
+2024-07-09T13:21:55.595Z -   --> GET /api/auth/user [32m200[0m 183ms
+2024-07-09T13:22:25.396Z -   <-- GET /api/auth/user
+2024-07-09T13:22:25.577Z -   --> GET /api/auth/user [32m200[0m 180ms
+2024-07-09T13:22:31.057Z -   <-- GET /api/auth/user
+2024-07-09T13:22:31.233Z -   --> GET /api/auth/user [32m200[0m 175ms
+2024-07-09T13:22:32.018Z -   <-- GET /
+2024-07-09T13:22:32.019Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:22:32.032Z -   <-- GET /assets/index-CNo_JhNU.js
+2024-07-09T13:22:32.033Z -   --> GET /assets/index-CNo_JhNU.js [32m200[0m 0ms
+2024-07-09T13:22:32.034Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:22:32.034Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:22:32.584Z -   <-- GET /api/auth/user
+2024-07-09T13:22:32.641Z -   --> GET /api/auth/user [32m200[0m 56ms
+2024-07-09T13:22:34.755Z -   <-- GET /
+2024-07-09T13:22:34.755Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:22:34.774Z -   <-- GET /assets/index-CNo_JhNU.js
+2024-07-09T13:22:34.774Z -   --> GET /assets/index-CNo_JhNU.js [32m200[0m 0ms
+2024-07-09T13:22:34.775Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:22:34.775Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:22:35.314Z -   <-- GET /api/auth/user
+2024-07-09T13:22:35.374Z -   --> GET /api/auth/user [32m200[0m 59ms
+2024-07-09T13:22:59.921Z -   <-- GET /api/auth/user
+2024-07-09T13:23:00.085Z -   --> GET /api/auth/user [32m200[0m 164ms
+2024-07-09T13:23:00.463Z -   <-- GET /
+2024-07-09T13:23:00.463Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:23:00.472Z -   <-- GET /assets/index-qxKATFSj.js
+2024-07-09T13:23:00.473Z -   --> GET /assets/index-qxKATFSj.js [32m200[0m 1ms
+2024-07-09T13:23:00.474Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:23:00.474Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:23:01.022Z -   <-- GET /api/auth/user
+2024-07-09T13:23:01.081Z -   --> GET /api/auth/user [32m200[0m 58ms
+2024-07-09T13:23:20.006Z -   <-- GET /api/auth/user
+2024-07-09T13:23:20.174Z -   --> GET /api/auth/user [32m200[0m 168ms
+2024-07-09T13:23:21.493Z -   <-- GET /
+2024-07-09T13:23:21.494Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:23:21.505Z -   <-- GET /assets/index-BWqu88Hw.js
+2024-07-09T13:23:21.506Z -   --> GET /assets/index-BWqu88Hw.js [32m200[0m 1ms
+2024-07-09T13:23:21.507Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:23:21.508Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:23:22.066Z -   <-- GET /api/auth/user
+2024-07-09T13:23:22.128Z -   --> GET /api/auth/user [32m200[0m 62ms
+2024-07-09T13:23:50.615Z -   <-- GET /api/auth/user
+2024-07-09T13:23:50.781Z -   --> GET /api/auth/user [32m200[0m 166ms
+2024-07-09T13:23:52.168Z -   <-- GET /
+2024-07-09T13:23:52.169Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:23:52.182Z -   <-- GET /assets/index-CkwaHwCO.js
+2024-07-09T13:23:52.182Z -   --> GET /assets/index-CkwaHwCO.js [32m200[0m 0ms
+2024-07-09T13:23:52.183Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:23:52.183Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:23:52.738Z -   <-- GET /api/auth/user
+2024-07-09T13:23:52.799Z -   --> GET /api/auth/user [32m200[0m 60ms
+2024-07-09T13:23:54.694Z -   <-- GET /
+2024-07-09T13:23:54.695Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:23:54.709Z -   <-- GET /assets/index-CkwaHwCO.js
+2024-07-09T13:23:54.710Z -   --> GET /assets/index-CkwaHwCO.js [32m200[0m 1ms
+2024-07-09T13:23:54.710Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:23:54.710Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:23:55.254Z -   <-- GET /api/auth/user
+2024-07-09T13:23:55.319Z -   --> GET /api/auth/user [32m200[0m 65ms
+2024-07-09T13:23:59.574Z -   <-- GET /api/auth/user
+2024-07-09T13:23:59.633Z -   --> GET /api/auth/user [32m200[0m 57ms
+2024-07-09T13:24:04.049Z -   <-- GET /api/auth/user
+2024-07-09T13:24:04.112Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T13:24:05.113Z -   <-- GET /
+2024-07-09T13:24:05.114Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:24:05.126Z -   <-- GET /assets/index-CzflxRhD.js
+2024-07-09T13:24:05.127Z -   --> GET /assets/index-CzflxRhD.js [32m200[0m 0ms
+2024-07-09T13:24:05.127Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:24:05.128Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:24:05.683Z -   <-- GET /api/auth/user
+2024-07-09T13:24:05.744Z -   --> GET /api/auth/user [32m200[0m 61ms
+2024-07-09T13:24:20.576Z -   <-- GET /api/auth/user
+2024-07-09T13:24:20.766Z -   --> GET /api/auth/user [32m200[0m 189ms
+2024-07-09T13:24:27.653Z -   <-- GET /api/auth/user
+2024-07-09T13:24:27.829Z -   --> GET /api/auth/user [32m200[0m 175ms
+2024-07-09T13:25:00.778Z -   <-- GET /api/auth/user
+2024-07-09T13:25:00.970Z -   --> GET /api/auth/user [32m200[0m 191ms
+2024-07-09T13:25:01.512Z -   <-- GET /
+2024-07-09T13:25:01.513Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:25:01.525Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:25:01.526Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 1ms
+2024-07-09T13:25:01.526Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:25:01.527Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:25:02.079Z -   <-- GET /api/auth/user
+2024-07-09T13:25:02.151Z -   --> GET /api/auth/user [32m200[0m 72ms
+2024-07-09T13:27:05.410Z -   <-- GET /api/auth/user
+2024-07-09T13:27:05.591Z -   --> GET /api/auth/user [32m200[0m 180ms
+2024-07-09T13:27:13.710Z -   <-- GET /api/auth/logic
+2024-07-09T13:27:13.712Z -   --> GET /api/auth/logic [33m404[0m 0ms
+2024-07-09T13:27:16.414Z -   <-- GET /api/auth/login
+2024-07-09T13:27:16.595Z -   --> GET /api/auth/login [36m302[0m 181ms
+2024-07-09T13:27:16.604Z -   <-- GET /
+2024-07-09T13:27:16.605Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:27:16.617Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:27:16.618Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 1ms
+2024-07-09T13:27:16.619Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:27:16.620Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:27:17.158Z -   <-- GET /api/auth/user
+2024-07-09T13:27:17.225Z -   --> GET /api/auth/user [32m200[0m 66ms
+2024-07-09T13:33:46.368Z -   <-- GET /api/auth/user
+2024-07-09T13:33:46.735Z -   --> GET /api/auth/user [32m200[0m 365ms
+2024-07-09T13:33:56.079Z -   <-- GET /api/auth/user
+2024-07-09T13:33:56.250Z -   --> GET /api/auth/user [32m200[0m 171ms
+2024-07-09T13:39:58.273Z -   <-- GET /api/auth/user
+2024-07-09T13:39:58.457Z -   --> GET /api/auth/user [32m200[0m 183ms
+2024-07-09T13:40:01.970Z -   <-- GET /
+2024-07-09T13:40:01.970Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:40:01.995Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:40:01.995Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 0ms
+2024-07-09T13:40:01.997Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:40:01.999Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 2ms
+2024-07-09T13:40:02.545Z -   <-- GET /api/auth/user
+2024-07-09T13:40:02.621Z -   --> GET /api/auth/user [32m200[0m 75ms
+2024-07-09T13:40:13.747Z -   <-- GET /api/auth/user
+2024-07-09T13:40:13.916Z -   --> GET /api/auth/user [32m200[0m 169ms
+2024-07-09T13:40:17.900Z -   <-- GET /api/auth/test
+2024-07-09T13:40:17.900Z -   --> GET /api/auth/test [33m404[0m 0ms
+2024-07-09T13:40:24.595Z -   <-- GET /api/test
+2024-07-09T13:40:24.603Z -   --> GET /api/test [32m200[0m 7ms
+2024-07-09T13:41:01.166Z -   <-- GET /api/test
+2024-07-09T13:41:01.168Z -   --> GET /api/test [33m401[0m 1ms
+2024-07-09T13:41:02.698Z -   <-- GET /api/test
+2024-07-09T13:41:02.699Z -   --> GET /api/test [33m401[0m 1ms
+2024-07-09T13:41:03.331Z -   <-- GET /api/test
+2024-07-09T13:41:03.332Z -   --> GET /api/test [33m401[0m 0ms
+2024-07-09T13:41:07.030Z -   <-- GET /api/auth/user
+2024-07-09T13:41:07.219Z -   --> GET /api/auth/user [32m200[0m 187ms
+2024-07-09T13:41:10.763Z -   <-- GET /api/auth/login
+2024-07-09T13:41:10.828Z -   --> GET /api/auth/login [36m302[0m 64ms
+2024-07-09T13:41:10.834Z -   <-- GET /
+2024-07-09T13:41:10.835Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:41:10.842Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:41:10.842Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 0ms
+2024-07-09T13:41:10.844Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:41:10.844Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:41:11.396Z -   <-- GET /api/auth/user
+2024-07-09T13:41:11.466Z -   --> GET /api/auth/user [32m200[0m 69ms
+2024-07-09T13:41:39.967Z -   <-- GET /api/auth/user
+2024-07-09T13:41:40.240Z -   --> GET /api/auth/user [32m200[0m 272ms
+2024-07-09T13:41:48.713Z -   <-- GET /api/test
+2024-07-09T13:41:48.714Z -   --> GET /api/test [33m401[0m 0ms
+2024-07-09T13:42:01.351Z -   <-- GET /api/test
+2024-07-09T13:42:01.352Z -   --> GET /api/test [33m401[0m 1ms
+2024-07-09T13:42:07.523Z -   <-- GET /api/test
+2024-07-09T13:42:07.526Z -   --> GET /api/test [33m401[0m 0ms
+2024-07-09T13:42:16.181Z -   <-- GET /api/test
+2024-07-09T13:42:16.182Z -   --> GET /api/test [33m401[0m 1ms
+2024-07-09T13:42:16.540Z -   <-- GET /api/test
+2024-07-09T13:42:16.541Z -   --> GET /api/test [33m401[0m 1ms
+2024-07-09T13:42:16.949Z -   <-- GET /api/test
+2024-07-09T13:42:16.950Z -   --> GET /api/test [33m401[0m 0ms
+2024-07-09T13:42:23.442Z -   <-- GET /api/test
+2024-07-09T13:42:23.444Z -   --> GET /api/test [33m401[0m 2ms
+2024-07-09T13:42:47.440Z -   <-- GET /api/auth/user
+2024-07-09T13:42:47.662Z -   --> GET /api/auth/user [32m200[0m 222ms
+2024-07-09T13:42:52.497Z -   <-- GET /
+2024-07-09T13:42:52.498Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:42:52.510Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:42:52.510Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 0ms
+2024-07-09T13:42:52.511Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:42:52.512Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:42:53.090Z -   <-- GET /api/auth/user
+2024-07-09T13:42:53.305Z -   --> GET /api/auth/user [32m200[0m 215ms
+2024-07-09T13:43:13.700Z -   <-- GET /api/auth/user
+2024-07-09T13:43:13.906Z -   --> GET /api/auth/user [32m200[0m 205ms
+2024-07-09T13:43:14.358Z -   <-- GET /
+2024-07-09T13:43:14.359Z -   --> GET / [33m401[0m 0ms
+2024-07-09T13:43:34.520Z -   <-- GET /
+2024-07-09T13:43:34.525Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:43:34.538Z -   <-- GET /assets/index-D3_CFOlZ.js
+2024-07-09T13:43:34.538Z -   --> GET /assets/index-D3_CFOlZ.js [32m200[0m 0ms
+2024-07-09T13:43:34.540Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:43:34.540Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:43:35.084Z -   <-- GET /api/auth/user
+2024-07-09T13:43:35.360Z -   --> GET /api/auth/user [32m200[0m 275ms
+2024-07-09T13:43:47.169Z -   <-- GET /api/auth/user
+2024-07-09T13:43:47.349Z -   --> GET /api/auth/user [32m200[0m 180ms
+2024-07-09T13:43:48.874Z -   <-- GET /api/auth/user
+2024-07-09T13:43:49.004Z -   --> GET /api/auth/user [32m200[0m 130ms
+2024-07-09T13:44:10.747Z -   <-- GET /api/auth/user
+2024-07-09T13:44:10.912Z -   --> GET /api/auth/user [32m200[0m 164ms
+2024-07-09T13:47:48.734Z -   <-- GET /api/auth/user
+2024-07-09T13:47:49.107Z -   <-- GET /
+2024-07-09T13:47:49.107Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:47:49.130Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:47:49.131Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 1ms
+2024-07-09T13:47:49.132Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:47:49.133Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:47:49.542Z -   --> GET /api/auth/user [32m200[0m 807ms
+2024-07-09T13:47:49.708Z -   <-- GET /api/auth/user
+2024-07-09T13:47:49.802Z -   --> GET /api/auth/user [32m200[0m 93ms
+2024-07-09T13:47:52.286Z -   <-- GET /api/auth/user
+2024-07-09T13:47:52.403Z -   --> GET /api/auth/user [32m200[0m 117ms
+2024-07-09T13:47:52.768Z -   <-- GET /
+2024-07-09T13:47:52.769Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:47:52.783Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:47:52.783Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:47:52.784Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:47:52.785Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:47:53.323Z -   <-- GET /api/auth/user
+2024-07-09T13:47:53.523Z -   --> GET /api/auth/user [32m200[0m 199ms
+2024-07-09T13:47:54.444Z -   <-- GET /api/auth/user
+2024-07-09T13:47:54.692Z -   --> GET /api/auth/user [32m200[0m 248ms
+2024-07-09T13:47:55.829Z -   <-- GET /
+2024-07-09T13:47:55.830Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:47:55.845Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:47:55.845Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:47:55.846Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:47:55.846Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:47:56.392Z -   <-- GET /api/auth/user
+2024-07-09T13:47:56.460Z -   --> GET /api/auth/user [32m200[0m 68ms
+2024-07-09T13:50:07.576Z -   <-- GET /about
+2024-07-09T13:50:07.578Z -   --> GET /about [33m404[0m 1ms
+2024-07-09T13:50:08.339Z -   <-- GET /about
+2024-07-09T13:50:08.340Z -   --> GET /about [33m404[0m 1ms
+2024-07-09T13:50:11.504Z -   <-- GET /
+2024-07-09T13:50:11.504Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:50:11.519Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:50:11.520Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:50:11.521Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:50:11.521Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:50:12.058Z -   <-- GET /api/auth/user
+2024-07-09T13:50:12.381Z -   --> GET /api/auth/user [32m200[0m 322ms
+2024-07-09T13:50:12.763Z -   <-- GET /about
+2024-07-09T13:50:12.763Z -   --> GET /about [33m404[0m 0ms
+2024-07-09T13:50:16.937Z -   <-- GET /
+2024-07-09T13:50:16.938Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:50:16.953Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:50:16.954Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:50:16.954Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:50:16.954Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:50:17.491Z -   <-- GET /api/auth/user
+2024-07-09T13:50:17.660Z -   --> GET /api/auth/user [32m200[0m 169ms
+2024-07-09T13:50:17.941Z -   <-- GET /api/auth/user
+2024-07-09T13:50:18.009Z -   --> GET /api/auth/user [32m200[0m 68ms
+2024-07-09T13:50:18.714Z -   <-- GET /
+2024-07-09T13:50:18.715Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:50:18.739Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:50:18.739Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:50:18.740Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:50:18.740Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:50:19.284Z -   <-- GET /api/auth/user
+2024-07-09T13:50:19.488Z -   --> GET /api/auth/user [32m200[0m 204ms
+2024-07-09T13:50:20.581Z -   <-- GET /api/auth/user
+2024-07-09T13:50:20.681Z -   --> GET /api/auth/user [32m200[0m 100ms
+2024-07-09T13:50:20.916Z -   <-- GET /
+2024-07-09T13:50:20.916Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:50:20.940Z -   <-- GET /assets/index-DbOchGqC.js
+2024-07-09T13:50:20.941Z -   --> GET /assets/index-DbOchGqC.js [32m200[0m 0ms
+2024-07-09T13:50:20.941Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:50:20.942Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:50:21.486Z -   <-- GET /api/auth/user
+2024-07-09T13:50:21.683Z -   --> GET /api/auth/user [32m200[0m 197ms
+2024-07-09T13:52:54.245Z -   <-- GET /api/auth/user
+2024-07-09T13:52:54.549Z -   --> GET /api/auth/user [32m200[0m 303ms
+2024-07-09T13:52:54.588Z -   <-- GET /
+2024-07-09T13:52:54.588Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:52:54.604Z -   <-- GET /assets/index-C_ms33yP.js
+2024-07-09T13:52:54.604Z -   --> GET /assets/index-C_ms33yP.js [32m200[0m 0ms
+2024-07-09T13:52:54.605Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:52:54.605Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:52:54.644Z -   <-- GET /api/auth/user
+2024-07-09T13:52:54.710Z -   --> GET /api/auth/user [32m200[0m 66ms
+2024-07-09T13:52:55.172Z -   <-- GET /api/auth/user
+2024-07-09T13:52:55.280Z -   --> GET /api/auth/user [32m200[0m 108ms
+2024-07-09T13:52:56.512Z -   <-- GET /api/auth/user
+2024-07-09T13:52:56.680Z -   --> GET /api/auth/user [32m200[0m 168ms
+2024-07-09T13:52:56.707Z -   <-- GET /api/auth/user
+2024-07-09T13:52:56.776Z -   --> GET /api/auth/user [32m200[0m 69ms
+2024-07-09T13:52:56.867Z -   <-- GET /
+2024-07-09T13:52:56.868Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:52:56.883Z -   <-- GET /assets/index-C_ms33yP.js
+2024-07-09T13:52:56.885Z -   --> GET /assets/index-C_ms33yP.js [32m200[0m 0ms
+2024-07-09T13:52:56.885Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:52:56.886Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:52:56.914Z -   <-- GET /api/auth/user
+2024-07-09T13:52:57.008Z -   --> GET /api/auth/user [32m200[0m 94ms
+2024-07-09T13:52:57.433Z -   <-- GET /api/auth/user
+2024-07-09T13:52:57.562Z -   --> GET /api/auth/user [32m200[0m 129ms
+2024-07-09T13:53:16.894Z -   <-- GET /about
+2024-07-09T13:53:16.895Z -   --> GET /about [33m404[0m 0ms
+2024-07-09T13:53:20.814Z -   <-- GET /
+2024-07-09T13:53:20.814Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:53:20.822Z -   <-- GET /assets/index-BF_LKgYs.js
+2024-07-09T13:53:20.822Z -   --> GET /assets/index-BF_LKgYs.js [32m200[0m 0ms
+2024-07-09T13:53:20.823Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:53:20.823Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:53:20.860Z -   <-- GET /api/auth/user
+2024-07-09T13:53:21.066Z -   --> GET /api/auth/user [32m200[0m 206ms
+2024-07-09T13:53:21.382Z -   <-- GET /api/auth/user
+2024-07-09T13:53:21.453Z -   --> GET /api/auth/user [32m200[0m 70ms
+2024-07-09T13:53:22.191Z -   <-- GET /about
+2024-07-09T13:53:22.192Z -   --> GET /about [33m404[0m 1ms
+2024-07-09T13:53:28.783Z -   <-- GET /
+2024-07-09T13:53:28.784Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:53:28.794Z -   <-- GET /assets/index-BF_LKgYs.js
+2024-07-09T13:53:28.794Z -   --> GET /assets/index-BF_LKgYs.js [32m200[0m 0ms
+2024-07-09T13:53:28.794Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:53:28.795Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:53:28.816Z -   <-- GET /api/auth/user
+2024-07-09T13:53:29.108Z -   --> GET /api/auth/user [32m200[0m 292ms
+2024-07-09T13:53:29.333Z -   <-- GET /api/auth/user
+2024-07-09T13:53:29.442Z -   --> GET /api/auth/user [32m200[0m 109ms
+2024-07-09T13:53:29.970Z -   <-- GET /api/auth/user
+2024-07-09T13:53:29.986Z -   <-- GET /api/auth/user
+2024-07-09T13:53:30.204Z -   --> GET /api/auth/user [32m200[0m 234ms
+2024-07-09T13:53:30.325Z -   --> GET /api/auth/user [32m200[0m 339ms
+2024-07-09T13:53:30.533Z -   <-- GET /
+2024-07-09T13:53:30.534Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:53:30.546Z -   <-- GET /assets/index-BF_LKgYs.js
+2024-07-09T13:53:30.547Z -   --> GET /assets/index-BF_LKgYs.js [32m200[0m 0ms
+2024-07-09T13:53:30.548Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:53:30.548Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:53:30.583Z -   <-- GET /api/auth/user
+2024-07-09T13:53:30.688Z -   --> GET /api/auth/user [32m200[0m 105ms
+2024-07-09T13:53:31.101Z -   <-- GET /api/auth/user
+2024-07-09T13:53:31.208Z -   --> GET /api/auth/user [32m200[0m 107ms
+2024-07-09T13:53:31.611Z -   <-- GET /about
+2024-07-09T13:53:31.612Z -   --> GET /about [33m404[0m 0ms
+2024-07-09T13:53:37.405Z -   <-- GET /
+2024-07-09T13:53:37.405Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:53:37.415Z -   <-- GET /assets/index-BF_LKgYs.js
+2024-07-09T13:53:37.416Z -   --> GET /assets/index-BF_LKgYs.js [32m200[0m 0ms
+2024-07-09T13:53:37.416Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:53:37.416Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:53:37.442Z -   <-- GET /api/auth/user
+2024-07-09T13:53:37.671Z -   --> GET /api/auth/user [32m200[0m 228ms
+2024-07-09T13:53:37.958Z -   <-- GET /api/auth/user
+2024-07-09T13:53:38.042Z -   --> GET /api/auth/user [32m200[0m 84ms
+2024-07-09T13:53:39.846Z -   <-- GET /api/auth/user
+2024-07-09T13:53:39.861Z -   <-- GET /api/auth/user
+2024-07-09T13:53:39.922Z -   --> GET /api/auth/user [32m200[0m 76ms
+2024-07-09T13:53:40.025Z -   --> GET /api/auth/user [32m200[0m 163ms
+2024-07-09T13:53:42.434Z -   <-- GET /api/auth/user
+2024-07-09T13:53:42.449Z -   <-- GET /api/auth/user
+2024-07-09T13:53:42.525Z -   --> GET /api/auth/user [32m200[0m 74ms
+2024-07-09T13:53:42.525Z -   --> GET /api/auth/user [32m200[0m 91ms
+2024-07-09T13:54:43.756Z -   <-- GET /api/auth/user
+2024-07-09T13:54:44.017Z -   --> GET /api/auth/user [32m200[0m 261ms
+2024-07-09T13:55:43.009Z -   <-- GET /api/auth/user
+2024-07-09T13:55:43.253Z -   --> GET /api/auth/user [32m200[0m 243ms
+2024-07-09T13:55:45.904Z -   <-- GET /api/auth/user
+2024-07-09T13:55:45.971Z -   --> GET /api/auth/user [32m200[0m 67ms
+2024-07-09T13:55:48.962Z -   <-- GET /api/auth/user
+2024-07-09T13:55:48.987Z -   <-- GET /api/auth/user
+2024-07-09T13:55:49.096Z -   --> GET /api/auth/user [32m200[0m 133ms
+2024-07-09T13:55:49.231Z -   --> GET /api/auth/user [32m200[0m 244ms
+2024-07-09T13:55:49.915Z -   <-- GET /api/auth/user
+2024-07-09T13:55:49.929Z -   <-- GET /api/auth/user
+2024-07-09T13:55:50.044Z -   --> GET /api/auth/user [32m200[0m 129ms
+2024-07-09T13:55:50.045Z -   --> GET /api/auth/user [32m200[0m 115ms
+2024-07-09T13:55:50.683Z -   <-- GET /api/auth/user
+2024-07-09T13:55:50.697Z -   <-- GET /api/auth/user
+2024-07-09T13:55:50.767Z -   --> GET /api/auth/user [32m200[0m 82ms
+2024-07-09T13:55:50.767Z -   --> GET /api/auth/user [32m200[0m 70ms
+2024-07-09T13:55:51.374Z -   <-- GET /
+2024-07-09T13:55:51.374Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:55:51.389Z -   <-- GET /assets/index-B6VaReQC.js
+2024-07-09T13:55:51.390Z -   --> GET /assets/index-B6VaReQC.js [32m200[0m 1ms
+2024-07-09T13:55:51.390Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:55:51.390Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:55:51.430Z -   <-- GET /api/auth/user
+2024-07-09T13:55:51.650Z -   --> GET /api/auth/user [32m200[0m 220ms
+2024-07-09T13:55:51.660Z -   <-- GET /api/auth/user
+2024-07-09T13:55:51.724Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T13:55:51.949Z -   <-- GET /api/auth/user
+2024-07-09T13:55:52.041Z -   --> GET /api/auth/user [32m200[0m 91ms
+2024-07-09T13:55:53.738Z -   <-- GET /api/auth/user
+2024-07-09T13:55:53.845Z -   --> GET /api/auth/user [32m200[0m 107ms
+2024-07-09T13:55:53.864Z -   <-- GET /api/auth/user
+2024-07-09T13:55:53.929Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T13:55:58.676Z -   <-- GET /api/auth/user
+2024-07-09T13:55:58.734Z -   --> GET /api/auth/user [32m200[0m 58ms
+2024-07-09T13:56:19.399Z -   <-- GET /api/auth/user
+2024-07-09T13:56:19.669Z -   --> GET /api/auth/user [32m200[0m 270ms
+2024-07-09T13:56:29.466Z -   <-- GET /api/auth/user
+2024-07-09T13:56:29.675Z -   --> GET /api/auth/user [32m200[0m 209ms
+2024-07-09T13:56:31.460Z -   <-- GET /
+2024-07-09T13:56:31.461Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:56:31.479Z -   <-- GET /assets/index-DC3AUoYq.js
+2024-07-09T13:56:31.480Z -   --> GET /assets/index-DC3AUoYq.js [32m200[0m 1ms
+2024-07-09T13:56:31.480Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:56:31.481Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T13:56:31.516Z -   <-- GET /api/auth/user
+2024-07-09T13:56:31.722Z -   --> GET /api/auth/user [32m200[0m 205ms
+2024-07-09T13:56:31.732Z -   <-- GET /api/auth/user
+2024-07-09T13:56:31.800Z -   --> GET /api/auth/user [32m200[0m 68ms
+2024-07-09T13:56:32.043Z -   <-- GET /api/auth/user
+2024-07-09T13:56:32.124Z -   --> GET /api/auth/user [32m200[0m 81ms
+2024-07-09T13:56:32.959Z -   <-- GET /api/auth/user
+2024-07-09T13:56:33.161Z -   --> GET /api/auth/user [32m200[0m 201ms
+2024-07-09T13:56:33.173Z -   <-- GET /api/auth/user
+2024-07-09T13:56:33.186Z -   <-- GET /api/auth/user
+2024-07-09T13:56:33.243Z -   --> GET /api/auth/user [32m200[0m 68ms
+2024-07-09T13:56:33.370Z -   --> GET /api/auth/user [32m200[0m 184ms
+2024-07-09T13:56:34.255Z -   <-- GET /api/auth/user
+2024-07-09T13:56:34.451Z -   --> GET /api/auth/user [32m200[0m 195ms
+2024-07-09T13:56:34.463Z -   <-- GET /api/auth/user
+2024-07-09T13:56:34.476Z -   <-- GET /api/auth/user
+2024-07-09T13:56:34.561Z -   --> GET /api/auth/user [32m200[0m 85ms
+2024-07-09T13:56:34.562Z -   --> GET /api/auth/user [32m200[0m 99ms
+2024-07-09T13:56:37.232Z -   <-- GET /api/auth/user
+2024-07-09T13:56:37.324Z -   --> GET /api/auth/user [32m200[0m 92ms
+2024-07-09T13:56:37.334Z -   <-- GET /api/auth/user
+2024-07-09T13:56:37.345Z -   <-- GET /api/auth/user
+2024-07-09T13:56:37.403Z -   --> GET /api/auth/user [32m200[0m 69ms
+2024-07-09T13:56:37.405Z -   --> GET /api/auth/user [32m200[0m 60ms
+2024-07-09T13:56:43.663Z -   <-- GET /api/auth/user
+2024-07-09T13:56:43.911Z -   --> GET /api/auth/user [32m200[0m 246ms
+2024-07-09T13:56:44.710Z -   <-- GET /apple-touch-icon-precomposed.png
+2024-07-09T13:56:44.710Z -   --> GET /apple-touch-icon-precomposed.png [33m404[0m 0ms
+2024-07-09T13:56:44.710Z -   <-- GET /apple-touch-icon.png
+2024-07-09T13:56:44.710Z -   --> GET /apple-touch-icon.png [33m404[0m 0ms
+2024-07-09T13:56:44.711Z -   <-- GET /favicon.ico
+2024-07-09T13:56:44.711Z -   --> GET /favicon.ico [33m404[0m 0ms
+2024-07-09T13:56:45.226Z -   <-- GET /vite.svg
+2024-07-09T13:56:45.227Z -   --> GET /vite.svg [32m200[0m 0ms
+2024-07-09T13:59:39.121Z -   <-- GET /api/auth/user
+2024-07-09T13:59:39.412Z -   --> GET /api/auth/user [32m200[0m 277ms
+2024-07-09T13:59:40.616Z -   <-- GET /
+2024-07-09T13:59:40.616Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:59:40.643Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T13:59:40.643Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T13:59:40.644Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:59:40.644Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:59:40.682Z -   <-- GET /api/auth/user
+2024-07-09T13:59:40.769Z -   --> GET /api/auth/user [32m200[0m 87ms
+2024-07-09T13:59:40.774Z -   <-- GET /api/auth/user
+2024-07-09T13:59:40.837Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T13:59:41.216Z -   <-- GET /api/auth/user
+2024-07-09T13:59:41.288Z -   --> GET /api/auth/user [32m200[0m 71ms
+2024-07-09T13:59:43.056Z -   <-- GET /api/auth/user
+2024-07-09T13:59:43.245Z -   --> GET /api/auth/user [32m200[0m 188ms
+2024-07-09T13:59:43.256Z -   <-- GET /api/auth/user
+2024-07-09T13:59:43.269Z -   <-- GET /api/auth/user
+2024-07-09T13:59:43.330Z -   --> GET /api/auth/user [32m200[0m 73ms
+2024-07-09T13:59:43.470Z -   --> GET /api/auth/user [32m200[0m 200ms
+2024-07-09T13:59:45.267Z -   <-- GET /api/auth/user
+2024-07-09T13:59:45.449Z -   --> GET /api/auth/user [32m200[0m 181ms
+2024-07-09T13:59:45.462Z -   <-- GET /api/auth/user
+2024-07-09T13:59:45.537Z -   --> GET /api/auth/user [32m200[0m 74ms
+2024-07-09T13:59:46.241Z -   <-- GET /
+2024-07-09T13:59:46.242Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:59:46.256Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T13:59:46.256Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T13:59:46.257Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:59:46.257Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:59:46.277Z -   <-- GET /api/auth/user
+2024-07-09T13:59:46.490Z -   --> GET /api/auth/user [32m200[0m 212ms
+2024-07-09T13:59:46.498Z -   <-- GET /api/auth/user
+2024-07-09T13:59:46.560Z -   --> GET /api/auth/user [32m200[0m 61ms
+2024-07-09T13:59:46.794Z -   <-- GET /api/auth/user
+2024-07-09T13:59:46.859Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T13:59:52.863Z -   <-- GET /
+2024-07-09T13:59:52.864Z -   --> GET / [32m200[0m 1ms
+2024-07-09T13:59:52.877Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T13:59:52.877Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T13:59:52.878Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:59:52.878Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:59:52.905Z -   <-- GET /api/auth/user
+2024-07-09T13:59:53.214Z -   --> GET /api/auth/user [32m200[0m 309ms
+2024-07-09T13:59:53.222Z -   <-- GET /api/auth/user
+2024-07-09T13:59:53.295Z -   --> GET /api/auth/user [32m200[0m 73ms
+2024-07-09T13:59:53.422Z -   <-- GET /api/auth/user
+2024-07-09T13:59:53.527Z -   --> GET /api/auth/user [32m200[0m 104ms
+2024-07-09T13:59:54.670Z -   <-- GET /
+2024-07-09T13:59:54.670Z -   --> GET / [32m200[0m 0ms
+2024-07-09T13:59:54.683Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T13:59:54.684Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T13:59:54.685Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T13:59:54.685Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T13:59:54.714Z -   <-- GET /api/auth/user
+2024-07-09T13:59:54.923Z -   --> GET /api/auth/user [32m200[0m 209ms
+2024-07-09T13:59:54.930Z -   <-- GET /api/auth/user
+2024-07-09T13:59:54.995Z -   --> GET /api/auth/user [32m200[0m 64ms
+2024-07-09T13:59:55.233Z -   <-- GET /api/auth/user
+2024-07-09T13:59:55.324Z -   --> GET /api/auth/user [32m200[0m 91ms
+2024-07-09T13:59:59.670Z -   <-- GET /api/auth/user
+2024-07-09T13:59:59.744Z -   --> GET /api/auth/user [32m200[0m 73ms
+2024-07-09T14:00:02.701Z -   <-- GET /
+2024-07-09T14:00:02.701Z -   --> GET / [32m200[0m 0ms
+2024-07-09T14:00:02.715Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:00:02.716Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 1ms
+2024-07-09T14:00:02.716Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:00:02.717Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T14:00:02.741Z -   <-- GET /api/auth/user
+2024-07-09T14:00:02.808Z -   --> GET /api/auth/user [32m200[0m 67ms
+2024-07-09T14:00:02.812Z -   <-- GET /api/auth/user
+2024-07-09T14:00:02.883Z -   --> GET /api/auth/user [32m200[0m 71ms
+2024-07-09T14:00:03.260Z -   <-- GET /api/auth/user
+2024-07-09T14:00:03.331Z -   --> GET /api/auth/user [32m200[0m 70ms
+2024-07-09T14:00:04.694Z -   <-- GET /
+2024-07-09T14:00:04.696Z -   --> GET / [32m200[0m 0ms
+2024-07-09T14:00:04.714Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:00:04.714Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T14:00:04.715Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:00:04.715Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T14:00:04.741Z -   <-- GET /api/auth/user
+2024-07-09T14:00:05.051Z -   --> GET /api/auth/user [32m200[0m 309ms
+2024-07-09T14:00:05.057Z -   <-- GET /api/auth/user
+2024-07-09T14:00:05.118Z -   --> GET /api/auth/user [32m200[0m 61ms
+2024-07-09T14:00:05.258Z -   <-- GET /api/auth/user
+2024-07-09T14:00:05.322Z -   --> GET /api/auth/user [32m200[0m 63ms
+2024-07-09T14:00:07.385Z -   <-- GET /
+2024-07-09T14:00:07.386Z -   --> GET / [32m200[0m 1ms
+2024-07-09T14:00:07.401Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:00:07.402Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T14:00:07.402Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:00:07.403Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T14:00:07.428Z -   <-- GET /api/auth/user
+2024-07-09T14:00:07.655Z -   --> GET /api/auth/user [32m200[0m 226ms
+2024-07-09T14:00:07.665Z -   <-- GET /api/auth/user
+2024-07-09T14:00:07.743Z -   --> GET /api/auth/user [32m200[0m 77ms
+2024-07-09T14:00:07.946Z -   <-- GET /api/auth/user
+2024-07-09T14:00:08.043Z -   --> GET /api/auth/user [32m200[0m 96ms
+2024-07-09T14:00:10.428Z -   <-- GET /about
+2024-07-09T14:00:10.428Z -   --> GET /about [33m404[0m 0ms

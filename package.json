@@ -1,0 +1,31 @@
+{
+  "name": "finance",
+  "module": "server/src/index.ts",
+  "scripts": {
+    "dev": "bun run --hot server/src/index.ts",
+    "studio": "bunx drizzle-kit studio",
+    "migrate": "bunx drizzle-kit generate",
+    "push": "bunx drizzle-kit push",
+    "introspect": "bunx drizzle-kit introspect"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "0.2.2",
+    "@libsql/client": "0.7.0",
+    "@trivago/prettier-plugin-sort-imports": "4.3.0",
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.6",
+    "bcrypt": "^5.1.1",
+    "drizzle-orm": "0.31.2",
+    "finance": ".",
+    "hono": "4.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "uuid": "10.0.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/uuid": "10.0.0",
+    "drizzle-kit": "0.22.7"
+  }
+}
