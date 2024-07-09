@@ -2,38 +2,33 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 import { csrf } from "hono/csrf";
-import { logger } from "hono/logger"; 
+import { logger } from "hono/logger";
 import { serveStatic } from "hono/bun";
 
 import testRouter from "./routes/test";
 import authRouter from "./routes/auth";
 import { customLogger } from "./logs";
 import logRouter from "./routes/log";
-import { handleUser } from "./auth/manager";
 
 const app = new Hono();
 
 app.use(csrf());
-app.get("*", logger(customLogger));
+app.get("*", logger());
 
-app.use(
-  cors({
-    origin: "*",
-    allowHeaders: ["X-Custom-Header", "Upgrade-Insecure-Requests"],
-    allowMethods: ["POST", "GET", "OPTIONS"],
-    exposeHeaders: ["Content-Length", "X-Kuma-Revision"],
-    maxAge: 600,
-    credentials: true,
-  }),
-);
-
-app.use("*", serveStatic({ root: "./client/dist" }));
-app.use("*", serveStatic({ path: "./client/dist/index.html " }));
+app.use(cors({
+  origin : "*",
+  allowHeaders : ["Content-Type", "Authorization", "X-CSRF-Token"],
+  credentials : true,
+  allowMethods : ["POST", "GET", "OPTIONS", "PUT", "DELETE"],
+}));
 
 const apiRoutes = app.basePath("/api")
   .route('/download/log', logRouter)
   .route('/test', testRouter)
   .route('/auth', authRouter)
+
+app.use("*", serveStatic({ root: "./client/dist" }));
+app.use("*", serveStatic({ path: "./client/dist/index.html" }));
 
 export default app;
 export const GET = apiRoutes.fetch;

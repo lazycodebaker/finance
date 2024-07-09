@@ -4,20 +4,12 @@ import { Hono } from "hono";
 
 const authRouter = new Hono();
 
-authRouter.get("/login", handleUser, async (c) => {
-  const user = c.var.user;
-
-  if(user) {
-    return c.redirect("/");
-  } else {
-    return c.redirect("/login");
-  };
-});
-
 authRouter.post("/login", async (c) => {
 
   const username = "lazycodebaker";
   const password = "Lazycodebaker@14";
+
+  console.log(await c.req.parseBody());
 
   const success = await handleLogin(c, {
     username: username,
@@ -25,7 +17,9 @@ authRouter.post("/login", async (c) => {
   });
 
   if (success) {
-    return c.redirect("/");
+    return c.json({
+      message: "Login successful",
+    }, 200);
   } else {
     return c.json({
       message: "Invalid credentials",
