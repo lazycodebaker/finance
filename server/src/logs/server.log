@@ -1524,3 +1524,61 @@
 2024-07-09T14:00:08.043Z -   --> GET /api/auth/user [32m200[0m 96ms
 2024-07-09T14:00:10.428Z -   <-- GET /about
 2024-07-09T14:00:10.428Z -   --> GET /about [33m404[0m 0ms
+2024-07-09T14:42:53.547Z -   <-- GET /
+2024-07-09T14:42:53.551Z -   --> GET / [32m200[0m 3ms
+2024-07-09T14:42:53.559Z -   <-- GET /assets/index-DdNAw0BC.js
+2024-07-09T14:42:53.559Z -   --> GET /assets/index-DdNAw0BC.js [32m200[0m 0ms
+2024-07-09T14:42:53.560Z -   <-- GET /assets/index-DAGBbwU-.css
+2024-07-09T14:42:53.560Z -   --> GET /assets/index-DAGBbwU-.css [32m200[0m 0ms
+2024-07-09T14:42:53.600Z -   <-- GET /api/auth/user
+2024-07-09T14:42:53.604Z -   --> GET /api/auth/user [33m401[0m 4ms
+2024-07-09T14:43:02.240Z -   <-- GET /
+2024-07-09T14:43:02.241Z -   --> GET / [32m200[0m 0ms
+2024-07-09T14:43:02.254Z -   <-- GET /assets/index-DdNAw0BC.js
+2024-07-09T14:43:02.255Z -   --> GET /assets/index-DdNAw0BC.js [32m200[0m 1ms
+2024-07-09T14:43:02.255Z -   <-- GET /assets/index-DAGBbwU-.css
+2024-07-09T14:43:02.256Z -   --> GET /assets/index-DAGBbwU-.css [32m200[0m 0ms
+2024-07-09T14:43:02.292Z -   <-- GET /api/auth/user
+2024-07-09T14:43:02.293Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T14:43:17.480Z -   <-- GET /
+2024-07-09T14:43:17.482Z -   --> GET / [32m200[0m 2ms
+2024-07-09T14:43:17.494Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:43:17.495Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 1ms
+2024-07-09T14:43:17.498Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:43:17.500Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T14:43:17.522Z -   <-- GET /api/auth/user
+2024-07-09T14:43:17.523Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T14:43:18.861Z -   <-- GET /
+2024-07-09T14:43:18.862Z -   --> GET / [32m200[0m 0ms
+2024-07-09T14:43:18.873Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:43:18.874Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 0ms
+2024-07-09T14:43:18.875Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:43:18.875Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T14:43:18.902Z -   <-- GET /api/auth/user
+2024-07-09T14:43:18.902Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T14:43:28.604Z -   <-- GET /api/auth/user
+2024-07-09T14:43:28.606Z -   --> GET /api/auth/user [33m401[0m 0ms
+2024-07-09T14:43:32.390Z -   <-- GET /api/auth/login
+2024-07-09T14:43:32.391Z -   --> GET /api/auth/login [33m401[0m 1ms
+2024-07-09T14:43:36.158Z -   <-- GET /
+2024-07-09T14:43:36.159Z -   --> GET / [32m200[0m 0ms
+2024-07-09T14:43:36.168Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:43:36.169Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 1ms
+2024-07-09T14:43:36.170Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:43:36.170Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 0ms
+2024-07-09T14:43:36.190Z -   <-- GET /api/auth/user
+2024-07-09T14:43:36.191Z -   --> GET /api/auth/user [33m401[0m 1ms
+2024-07-09T14:44:20.982Z -   <-- GET /
+2024-07-09T14:44:20.987Z -   --> GET / [32m200[0m 2ms
+2024-07-09T14:44:20.994Z -   <-- GET /assets/index-BvlU0Mpt.js
+2024-07-09T14:44:20.995Z -   --> GET /assets/index-BvlU0Mpt.js [32m200[0m 1ms
+2024-07-09T14:44:20.996Z -   <-- GET /assets/index-D-raa6bD.css
+2024-07-09T14:44:20.997Z -   --> GET /assets/index-D-raa6bD.css [32m200[0m 1ms
+2024-07-09T14:44:21.031Z -   <-- GET /api/auth/user
+2024-07-09T14:44:21.033Z -   --> GET /api/auth/user [33m401[0m 2ms
+2024-07-09T14:44:29.821Z -   <-- GET /api/test
+2024-07-09T14:44:29.823Z -   --> GET /api/test [32m200[0m 1ms
+2024-07-09T14:44:45.927Z -   <-- GET /api/test
+2024-07-09T14:44:45.930Z -   --> GET /api/test [32m200[0m 2ms
+2024-07-09T14:44:46.749Z -   <-- GET /api/test
+2024-07-09T14:44:46.750Z -   --> GET /api/test [32m200[0m 0ms

@@ -6,7 +6,8 @@
     "studio": "bunx drizzle-kit studio",
     "migrate": "bunx drizzle-kit generate",
     "push": "bunx drizzle-kit push",
-    "introspect": "bunx drizzle-kit introspect"
+    "introspect": "bunx drizzle-kit introspect",
+    "build": "bunx --bun vite build client"
   },
   "dependencies": {
     "@hono/zod-validator": "0.2.2",
