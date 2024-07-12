@@ -15,9 +15,15 @@ function Index() {
                 username: "lazycodebaker",
                 password: "Lazycodebaker@14"
             }
-        })
+        }).then(async (result : unknown) => {
+            console.log(await result.json());
+            
+        }).catch((err : unknown) => {
+            console.log(err);
+            
+        });
 
-        console.log(await response.json());
+        //console.log(await response.json());
 
     };
 
