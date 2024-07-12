@@ -25,7 +25,7 @@ function Index() {
         <div>
             <h1>About</h1>
 
-            <button onClick={login}>Login</button>
+            <button className='px-4 py-2 bg-gray-900 text-gray-50 text-xs text-center' onClick={login}>Login</button>
         </div>
     );
 }
