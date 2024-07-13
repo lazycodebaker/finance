@@ -1,0 +1,1 @@
+DROP INDEX IF EXISTS `income_user_id_unique`;

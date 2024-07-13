@@ -4,12 +4,10 @@ import { Hono } from "hono";
 
 const authRouter = new Hono();
 
-authRouter.post("/login", async (c) => {
+authRouter.get("/login", async (c) => {
 
   const username = "lazycodebaker";
   const password = "Lazycodebaker@14";
-
-  console.log(await c.req.parseBody());
 
   const success = await handleLogin(c, {
     username: username,

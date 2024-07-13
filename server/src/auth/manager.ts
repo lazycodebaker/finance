@@ -23,13 +23,15 @@ export const handleLogin = async (c: Context, authCredentials: TAuthCredentials)
             _id: user_id,
             username: username,
             password: hashed_token,
-            createAt: new Date().toISOString(),
-            updateAt: new Date().toISOString(),
+            createdAt: new Date().toISOString(),
+            updatedAt: new Date().toISOString(),
         };
 
         await db.insert(userTable).values(user);
+
         const token = await generateToken(user_id);
         await setCookie(c, "token", token);
+
         return true;
     } catch (error) {
         console.log(error);
@@ -59,18 +61,33 @@ type Env = {
     };
 };
 
+const responseFunc = ({ data, message, status }: { data?: any, message: string, status: number }) => {
+    return new Response(JSON.stringify({
+        ok: true,
+        data,
+        message
+    }), {
+        headers: {
+            "Content-Type": "application/json",
+        },
+        status,
+    });
+};
+
 export const handleUser = createMiddleware<Env>(async (c, next) => {
     try {
         const token = await getCookie(c, "token");
-        if (!token) return c.json({ error: "Invalid Token" }, 401);
+        if (!token) return responseFunc({ message: "Token Not Found", status: 401 });
 
         const user_id = await tokenVerify(token);
-        if (!user_id) return c.json({ error: "Unauthorized , User Not Found" }, 401);
+        if (!user_id) return responseFunc({ message: "Invalid Token", status: 401 });
 
         const user = (await db.select().from(userTable).where(eq(userTable._id, user_id)))[0];
+        if (!user) return responseFunc({ message: "User Not Found", status: 401 });
+
         c.set("user", user);
         await next();
     } catch (error) {
-        return c.json({ error: "Error Getting User" }, 401);
+        return responseFunc({ message: "Error Getting User", status: 500 });
     }
 });

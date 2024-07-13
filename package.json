@@ -2,7 +2,7 @@
   "name": "finance",
   "module": "server/src/index.ts",
   "scripts": {
-    "dev": "bun run --hot server/src/index.ts",
+    "dev": "bun run --watch server/src/index.ts",
     "studio": "bunx drizzle-kit studio",
     "migrate": "bunx drizzle-kit generate",
     "push": "bunx drizzle-kit push",

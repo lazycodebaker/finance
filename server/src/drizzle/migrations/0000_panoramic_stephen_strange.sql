@@ -61,7 +61,7 @@ CREATE TABLE `transactions` (
 --> statement-breakpoint
 CREATE TABLE `users` (
 	`id` text PRIMARY KEY NOT NULL,
-	`name` text,
+	`username` text,
 	`password` text,
 	`timestamp` text DEFAULT (CURRENT_TIMESTAMP)
 );

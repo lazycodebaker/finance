@@ -1,15 +1,26 @@
-import { createLazyFileRoute } from '@tanstack/react-router'
+import { createFileRoute, redirect } from '@tanstack/react-router'
 import { api } from '@/hono/client';
 import { useNavigate } from '@tanstack/react-router'
 import { useQuery } from "@tanstack/react-query";
 import { useEffect } from 'react';
+import { isNotLocalStorage } from '@/auth';
 
-export const Route = createLazyFileRoute('/')({
-    errorComponent : () => <div>Error While Rendering Index Page</div>,
-    component: Index
+export const Route = createFileRoute('/')({
+    errorComponent: () => <div>Error While Rendering Index Page</div>,
+    component: Index,
+    beforeLoad: async () => {
+
+        console.log("before load")
+
+        if (isNotLocalStorage) {
+            throw redirect({
+                to: "/about",
+            });
+        }
+    }
 });
 
-export const getAuth = async () => { 
+export const getAuth = async () => {
     const response = await api.auth.user.$get();
     if (!response.ok) return null;
     const data = await response.json();
@@ -27,15 +38,7 @@ function Index() {
 
     useEffect(() => {
         if (data) {
-            localStorage.setItem("user", JSON.stringify(data));
-        }
-
-        const local = localStorage.getItem("user");
-
-        if (!local) {
-            navigate({
-                to: "/about"
-            });
+            // localStorage.setItem("user", JSON.stringify(data));
         }
     }, [data, navigate]);
 
