@@ -1,17 +1,12 @@
 import { createFileRoute, redirect } from '@tanstack/react-router'
-import { api } from '@/hono/client';
-import { useNavigate } from '@tanstack/react-router'
-import { useQuery } from "@tanstack/react-query";
-import { useEffect } from 'react';
+import { api } from '@/hono/client'; 
+import { useQuery } from "@tanstack/react-query"; 
 import { isNotLocalStorage } from '@/auth';
 
 export const Route = createFileRoute('/')({
     errorComponent: () => <div>Error While Rendering Index Page</div>,
     component: Index,
     beforeLoad: async () => {
-
-        console.log("before load")
-
         if (isNotLocalStorage) {
             throw redirect({
                 to: "/about",
@@ -33,14 +28,6 @@ function Index() {
         queryKey: ["auth"],
         queryFn: getAuth,
     });
-
-    const navigate = useNavigate();
-
-    useEffect(() => {
-        if (data) {
-            // localStorage.setItem("user", JSON.stringify(data));
-        }
-    }, [data, navigate]);
 
     if (isPending) return <p>Loading...</p>;
     if (isLoading) return <p>Loading...</p>;

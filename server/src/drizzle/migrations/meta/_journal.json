@@ -5,29 +5,8 @@
     {
       "idx": 0,
       "version": "6",
-      "when": 1720809657119,
-      "tag": "0000_panoramic_stephen_strange",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "6",
-      "when": 1720812074044,
-      "tag": "0001_loud_prowler",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "6",
-      "when": 1720812115978,
-      "tag": "0002_concerned_valeria_richards",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "6",
-      "when": 1720812160209,
-      "tag": "0003_round_living_mummy",
+      "when": 1721068624610,
+      "tag": "0000_absurd_johnny_storm",
       "breakpoints": true
     }
   ]

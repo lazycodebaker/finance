@@ -2,11 +2,11 @@ import { relations, sql } from "drizzle-orm";
 import { sqliteTable, text, integer } from "drizzle-orm/sqlite-core";
 import { z } from "zod";
 
-// Define Zod schemas for validation
 export const userSchema = z.object({
   _id: z.string().uuid(),
   username: z.string(),
   password: z.string(),
+  is_logged: z.boolean(),
   createdAt: z.string().date(),
   updatedAt: z.string().date(),
 });
@@ -83,6 +83,7 @@ export const userTable = sqliteTable("users", {
   _id: text("id").notNull().primaryKey().unique(),
   username: text("username").notNull(),
   password: text("password").notNull(),
+  is_logged: integer("is_logged", { mode: "boolean" }).notNull().default(false),
   createdAt: text("timestamp").default(sql`(CURRENT_TIMESTAMP)`).notNull(),
   updatedAt: text("timestamp").default(sql`(CURRENT_TIMESTAMP)`).notNull(),
 });

@@ -11,10 +11,11 @@ import { customLogger } from "./logs";
 import logRouter from "./routes/log";
 import incomeRouter from "./routes/income";
 import expenseRouter from "./routes/expense";
+import budgetRouter from "./routes/budget";
 
 const app = new Hono();
 
-app.use(csrf());
+// app.use(csrf());
 
 // app.get("*", logger(customLogger));
 
@@ -28,6 +29,7 @@ app.use(cors({
 const apiRoutes = app.basePath("/api")
   .route("/income", incomeRouter)
   .route('/expense', expenseRouter)
+  .route('/budget', budgetRouter)
   .route('/download/log', logRouter)
   .route('/test', testRouter)
   .route('/auth', authRouter)

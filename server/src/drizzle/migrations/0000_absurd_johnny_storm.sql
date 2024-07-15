@@ -1,6 +1,6 @@
 CREATE TABLE `budgets` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`category` text,
 	`limit` integer,
 	`date` text,
@@ -9,7 +9,7 @@ CREATE TABLE `budgets` (
 --> statement-breakpoint
 CREATE TABLE `expenses` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`amount` integer,
 	`category` text,
 	`description` text,
@@ -19,7 +19,7 @@ CREATE TABLE `expenses` (
 --> statement-breakpoint
 CREATE TABLE `income` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`amount` integer,
 	`source` text,
 	`category` text,
@@ -29,7 +29,7 @@ CREATE TABLE `income` (
 --> statement-breakpoint
 CREATE TABLE `investments` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`type` text,
 	`name` text,
 	`amount` integer,
@@ -40,7 +40,7 @@ CREATE TABLE `investments` (
 --> statement-breakpoint
 CREATE TABLE `savings` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`goal_name` text,
 	`target_amount` integer,
 	`current_amount` integer,
@@ -50,7 +50,7 @@ CREATE TABLE `savings` (
 --> statement-breakpoint
 CREATE TABLE `transactions` (
 	`id` text PRIMARY KEY NOT NULL,
-	`user_id` integer NOT NULL,
+	`user_id` text NOT NULL,
 	`type` text,
 	`amount` integer,
 	`category` text,
@@ -61,9 +61,10 @@ CREATE TABLE `transactions` (
 --> statement-breakpoint
 CREATE TABLE `users` (
 	`id` text PRIMARY KEY NOT NULL,
-	`username` text,
-	`password` text,
-	`timestamp` text DEFAULT (CURRENT_TIMESTAMP)
+	`username` text NOT NULL,
+	`password` text NOT NULL,
+	`is_logged` integer DEFAULT false NOT NULL,
+	`timestamp` text DEFAULT (CURRENT_TIMESTAMP) NOT NULL
 );
 --> statement-breakpoint
 CREATE UNIQUE INDEX `budgets_id_unique` ON `budgets` (`id`);--> statement-breakpoint

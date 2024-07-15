@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX `income_user_id_unique` ON `income` (`user_id`);

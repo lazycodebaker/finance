@@ -6,6 +6,7 @@ import { v4 } from "uuid";
 import { db } from "@/db/client";
 import { eq } from "drizzle-orm";
 import { handleUser } from "@/auth/manager";
+import { responseFunc } from "@/helper/response";
 
 const expenseRouter = new Hono();
 
@@ -16,19 +17,6 @@ const TExpenseCreateBody = expenseSchema.omit({
 });
 
 type TExpenseCreateBody = z.infer<typeof TExpenseCreateBody>;
-
-const responseFunc = ({ data, message, status }: { data?: any, message: string, status: number }) => {
-    return new Response(JSON.stringify({
-        ok: true,
-        data,
-        message
-    }), {
-        headers: {
-            "Content-Type": "application/json",
-        },
-        status: status
-    });
-};
 
 expenseRouter.post("/create", handleUser, async (c) => {
     try {

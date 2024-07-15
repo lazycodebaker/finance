@@ -1,12 +1,12 @@
 
 import { z } from "zod";
 import { Hono } from "hono";
-import { HTTPException } from 'hono/http-exception'
 import { incomeSchema, incomeTable, TIncome, userTable } from "@/drizzle/schemas";
 import { v4 } from "uuid";
 import { db } from "@/db/client";
 import { handleUser } from "@/auth/manager";
 import { eq } from "drizzle-orm";
+import { zValidator } from "@hono/zod-validator";
 
 const incomeRouter = new Hono();
 
@@ -18,7 +18,7 @@ const TIncomeCreateBody = incomeSchema.omit({
 
 type TIncomeCreateBody = z.infer<typeof TIncomeCreateBody>;
 
-incomeRouter.post("/create", handleUser, async (c) => {
+incomeRouter.post("/create", handleUser, zValidator('form', TIncomeCreateBody), async (c) => {
     try {
         const incomeData = await TIncomeCreateBody.parseAsync(await c.req.json());
 
@@ -67,13 +67,13 @@ incomeRouter.get("/all", async (c) => {
 
         if (!response) return c.json({ ok: false, message: "Income not found" });
 
-        return c.json({ ok: true, message: "hello world from income", data: transformedResponse });
+        return c.json({ ok: true, message: "All Incomes", data: transformedResponse });
     } catch (error) {
         return c.json({ ok: false, message: "Income not found" });
     }
 });
 
-incomeRouter.delete("/delete/:id", async (c) => {
+incomeRouter.delete("/delete/:id", zValidator('param', z.object({ id: z.string() })), async (c) => {
     try {
         const id = c.req.param("id");
 
